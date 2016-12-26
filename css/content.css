@@ -2452,7 +2452,7 @@
 		font-family:"Montserrat",sans-serif;
 	   	color: #dedee4;
 	   	position: relative;
-	   	font-size: 40px;
+	   	font-size: 28px;
 	   	font-weight:400;
 	   	opacity: 0;
 	   	margin-bottom:15px;
@@ -2468,7 +2468,7 @@
 
 	/* Text */
 	.view .text {
-	    font-size: 18px;
+	    font-size: 14px;
 	    position: relative;
 	    color: #dedee4;
 	    font-family:"Montserrat", sans-serif;
