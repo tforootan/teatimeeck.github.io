@@ -1,0 +1,1821 @@
+{
+    "Andere_Anbaugebiete": {
+        "home": "../../", 
+        "image_link": "img/teas/Andere_Anbaugebiete.jpg", 
+        "link": "teas/Andere_Anbaugebiete/Andere_Anbaugebiete.html", 
+        "teas": {
+            "Brasil Mate grün": {
+                "description": "vom Yerba – Strauch, Koffeinhaltig, helle Tasse ", 
+                "home": "../../../", 
+                "image_link": "img/teas/Brasil Mate grün.jpg", 
+                "link": "teas/Andere_Anbaugebiete/Brasil Mate grün.html", 
+                "price": {
+                    "100g": "3", 
+                    "250g": "7", 
+                    "50g": "2"
+                }
+            }, 
+            "Lapacho (Inka Tee) ": {
+                "description": "Südamerikanischer Rindentee, auch Inka Tee genannt", 
+                "home": "../../../", 
+                "image_link": "img/teas/Lapacho (Inka Tee) .jpg", 
+                "link": "teas/Andere_Anbaugebiete/Lapacho (Inka Tee) .html", 
+                "price": {
+                    "100g": "4", 
+                    "250g": "9", 
+                    "50g": "2.5"
+                }
+            }, 
+            "Pu Erh Tee": {
+                "description": "Das Fett –Weg –Getränk aus_China", 
+                "home": "../../../", 
+                "image_link": "img/teas/Pu Erh Tee.jpg", 
+                "link": "teas/Andere_Anbaugebiete/Pu Erh Tee.html", 
+                "price": {
+                    "100g": "5", 
+                    "250g": "10", 
+                    "50g": "2.75"
+                }
+            }, 
+            "Super Body Fit": {
+                "description": "Pu-Erh Tee, Matetee, Orangenschalen, Sonnenblumen u. Kornblumenblüten, Aroma", 
+                "home": "../../../", 
+                "image_link": "img/teas/Super Body Fit.jpg", 
+                "link": "teas/Andere_Anbaugebiete/Super Body Fit.html", 
+                "price": {
+                    "100g": "5.5", 
+                    "250g": "12.5", 
+                    "50g": "3"
+                }
+            }
+        }
+    }, 
+    "Ayurveda": {
+        "home": "../../", 
+        "image_link": "img/teas/Ayurveda.jpg", 
+        "link": "teas/Ayurveda/Ayurveda.html", 
+        "teas": {
+            "Anti- Strapazen- Tee Vata": {
+                "description": "Zimtstücke, Süßholzwurzeln, Ingwerstücke, Fenchel, Orangenschalen, \nKardamom\n", 
+                "home": "../../../", 
+                "image_link": "img/teas/Anti- Strapazen- Tee Vata.jpg", 
+                "link": "teas/Ayurveda/Anti- Strapazen- Tee Vata.html", 
+                "price": {
+                    "100g": "5.5", 
+                    "250g": "12", 
+                    "50g": "3.25"
+                }
+            }, 
+            "Balance Tee Pitta": {
+                "description": "ganzer Kardamom, Süßholzwurzeln, Koriander, Fenchel, Ingwerstücke, Rosenblüten\t", 
+                "home": "../../../", 
+                "image_link": "img/teas/Balance Tee Pitta.jpg", 
+                "link": "teas/Ayurveda/Balance Tee Pitta.html", 
+                "price": {
+                    "100g": "5.5", 
+                    "250g": "12", 
+                    "50g": "3.25"
+                }
+            }, 
+            "Ermunternder Tee Kapha": {
+                "description": "Einechter Muntermacher mit ganzer Kardamom, Kurkumawurzeln, Nelken, Muskatnuss, Koriander", 
+                "home": "../../../", 
+                "image_link": "img/teas/Ermunternder Tee Kapha.jpg", 
+                "link": "teas/Ayurveda/Ermunternder Tee Kapha.html", 
+                "price": {
+                    "100g": "5.5", 
+                    "250g": "12", 
+                    "50g": "3.25"
+                }
+            }
+        }
+    }, 
+    "Früchtetee": {
+        "home": "../../", 
+        "image_link": "img/teas/Früchtetee.jpg", 
+        "link": "teas/Früchtetee/Früchtetee.html", 
+        "teas": {
+            "(Rote Grütze) Eckernförder Grütze\t": {
+                "description": "Apfel, rote Bete, Korinthen, Johannisbeeren, Hagebutten, Holunderbeeren, Brombeeren, Heildelbeeren, Himbeeren, Rosenblütenblätter, Aroma\n\n", 
+                "home": "../../../", 
+                "image_link": "img/teas/(Rote Grütze) Eckernförder Grütze\t.jpg", 
+                "link": "teas/Früchtetee/(Rote Grütze) Eckernförder Grütze\t.html", 
+                "price": {
+                    "100g": "4", 
+                    "250g": "9", 
+                    "50g": "2.1"
+                }
+            }, 
+            "Adventstee Früchte": {
+                "description": "Basis, Orangenschalen, Zimtrinde, Nelken, Aroma", 
+                "home": "../../../", 
+                "image_link": "img/teas/Adventstee Früchte.jpg", 
+                "link": "teas/Früchtetee/Adventstee Früchte.html", 
+                "price": {
+                    "100g": "4", 
+                    "250g": "9", 
+                    "50g": "2.1"
+                }
+            }, 
+            "Banane Kirsch": {
+                "description": "Basis, Ananas, Papaya, Bananenstücke, Rosenblüten, Aroma", 
+                "home": "../../../", 
+                "image_link": "img/teas/Banane Kirsch.jpg", 
+                "link": "teas/Früchtetee/Banane Kirsch.html", 
+                "price": {
+                    "100g": "4", 
+                    "250g": "9", 
+                    "50g": "2.1"
+                }
+            }, 
+            "Eckernförder Herbst": {
+                "description": "Basis, Holunder u. Weinbeeren, Kornblumenblüten, Korinthen, Erdbeerscheiben, Brombeeren, Himbeere, Ananas, Kirschfruchtstücke, Karottenstücke, Aroma", 
+                "home": "../../../", 
+                "image_link": "img/teas/Eckernförder Herbst.jpg", 
+                "link": "teas/Früchtetee/Eckernförder Herbst.html", 
+                "price": {
+                    "100g": "4", 
+                    "250g": "9", 
+                    "50g": "2.1"
+                }
+            }, 
+            "Erdbeer Sahne": {
+                "description": "Basis, Erdbeerstücke, Aroma", 
+                "home": "../../../", 
+                "image_link": "img/teas/Erdbeer Sahne.jpg", 
+                "link": "teas/Früchtetee/Erdbeer Sahne.html", 
+                "price": {
+                    "100g": "4", 
+                    "250g": "9", 
+                    "50g": "2.1"
+                }
+            }, 
+            "Früchte Dschungelblüte": {
+                "description": "Basis, Ananas- u. Mangostücke, Malven- u. Sonnenblumenblüten und Aroma\n\n", 
+                "home": "../../../", 
+                "image_link": "img/teas/Früchte Dschungelblüte.jpg", 
+                "link": "teas/Früchtetee/Früchte Dschungelblüte.html", 
+                "price": {
+                    "100g": "4", 
+                    "250g": "9", 
+                    "50g": "2.1"
+                }
+            }, 
+            "Früchte Eckernförder Brandung": {
+                "description": "Holunder u. Weinbeeren, Hibiskus u. Kornblumenblüten, Korinthen, Aroma", 
+                "home": "../../../", 
+                "image_link": "img/teas/Früchte Eckernförder Brandung.jpg", 
+                "link": "teas/Früchtetee/Früchte Eckernförder Brandung.html", 
+                "price": {
+                    "100g": "4", 
+                    "250g": "9", 
+                    "50g": "2.1"
+                }
+            }, 
+            "Früchte Pina Colada": {
+                "description": "Früchte Basis, Ananas, Kokosraspel, Kokoschips, Aroma", 
+                "home": "../../../", 
+                "image_link": "img/teas/Früchte Pina Colada.jpg", 
+                "link": "teas/Früchtetee/Früchte Pina Colada.html", 
+                "price": {
+                    "100g": "4", 
+                    "250g": "9", 
+                    "50g": "2.1"
+                }
+            }, 
+            "Früchte Winter Chai": {
+                "description": "Basis, Zimt, Kandis, Kardamom, Ingwer, schwarzer u. roter Pfeffer, Nelken, Aroma", 
+                "home": "../../../", 
+                "image_link": "img/teas/Früchte Winter Chai.jpg", 
+                "link": "teas/Früchtetee/Früchte Winter Chai.html", 
+                "price": {
+                    "100g": "3.9", 
+                    "250g": "9", 
+                    "50g": "2.45"
+                }
+            }, 
+            "Gebrannte Mandel": {
+                "description": "Apfel, Mandel, Rote Bete, Aroma ", 
+                "home": "../../../", 
+                "image_link": "img/teas/Gebrannte Mandel.jpg", 
+                "link": "teas/Früchtetee/Gebrannte Mandel.html", 
+                "price": {
+                    "100g": "4", 
+                    "250g": "9", 
+                    "50g": "2.1"
+                }
+            }, 
+            "Kaminfeuer": {
+                "description": "Basis, Kakaoschalen, Zimtrinde, Pfingstrosenblüten,  Aroma", 
+                "home": "../../../", 
+                "image_link": "img/teas/Kaminfeuer.jpg", 
+                "link": "teas/Früchtetee/Kaminfeuer.html", 
+                "price": {
+                    "100g": "4", 
+                    "250g": "9", 
+                    "50g": "2.1"
+                }
+            }, 
+            "Weihnachtstee Früchte": {
+                "description": "Basis, Orangenschalen, Papayastücke, Zimt, Aroma", 
+                "home": "../../../", 
+                "image_link": "img/teas/Weihnachtstee Früchte.jpg", 
+                "link": "teas/Früchtetee/Weihnachtstee Früchte.html", 
+                "price": {
+                    "100g": "4", 
+                    "250g": "9", 
+                    "50g": "2.1"
+                }
+            }
+        }
+    }, 
+    "Grüntee": {
+        "Aromatisiert": {
+            "home": "../../../", 
+            "image_link": "img/teas/Aromatisiert.jpg", 
+            "link": "teas/Grüntee/Aromatisiert/Aromatisiert.html", 
+            "teas": {
+                "7 grüne Kostbarkeiten": {
+                    "description": "Sencha, Chun Mee, Gunpowder, Pai Mu Tan, Pi Lo Chun,\nAnanasstücke, Erdbeerstücke, Sonnenblumenblüten, Aroma\n", 
+                    "home": "../../../../", 
+                    "image_link": "img/teas/7 grüne Kostbarkeiten.jpg", 
+                    "link": "teas/Grüntee/Aromatisiert/7 grüne Kostbarkeiten.html", 
+                    "price": {
+                        "100g": "5.5", 
+                        "250g": "12.5", 
+                        "50g": "2.5"
+                    }
+                }, 
+                "Coole Tasse": {
+                    "description": "Chun Mee, Lemongras, Minze, Saflor- und Orangenblüten, Aroma", 
+                    "home": "../../../../", 
+                    "image_link": "img/teas/Coole Tasse.jpg", 
+                    "link": "teas/Grüntee/Aromatisiert/Coole Tasse.html", 
+                    "price": {
+                        "100g": "4.5", 
+                        "250g": "10", 
+                        "50g": "2.5"
+                    }
+                }, 
+                "Frische Brise": {
+                    "description": "Grüner Sencha, Pfefferminze, natürliches Minzöl ", 
+                    "home": "../../../../", 
+                    "image_link": "img/teas/Frische Brise.jpg", 
+                    "link": "teas/Grüntee/Aromatisiert/Frische Brise.html", 
+                    "price": {
+                        "100g": "4.5", 
+                        "250g": "10", 
+                        "50g": "2.5"
+                    }
+                }, 
+                "Grüner Eistee": {
+                    "description": "Grüner Tee, Zitronenschalen, Lemon Gras, natürliches Aroma\nAls Basis: Hagebuttenschalen, Hibiskus, Apfelstücke (Alle aromatisierten Früchtetees )\n", 
+                    "home": "../../../../", 
+                    "image_link": "img/teas/Grüner Eistee.jpg", 
+                    "link": "teas/Grüntee/Aromatisiert/Grüner Eistee.html", 
+                    "price": {
+                        "100g": "4.5", 
+                        "250g": "10", 
+                        "50g": "2.5"
+                    }
+                }, 
+                "Ingwer Ananas": {
+                    "description": "Sencha, Ingwer Ananas und Aroma ", 
+                    "home": "../../../../", 
+                    "image_link": "img/teas/Ingwer Ananas.jpg", 
+                    "link": "teas/Grüntee/Aromatisiert/Ingwer Ananas.html", 
+                    "price": {
+                        "100g": "4.5", 
+                        "250g": "10", 
+                        "50g": "2.5"
+                    }
+                }, 
+                "Ingwer Zitrone": {
+                    "description": "Sencha, Zitronenschale, Ingwer, Lemongras, Ginkoblätter, natürliches Zitronenaroma", 
+                    "home": "../../../../", 
+                    "image_link": "img/teas/Ingwer Zitrone.jpg", 
+                    "link": "teas/Grüntee/Aromatisiert/Ingwer Zitrone.html", 
+                    "price": {
+                        "100g": "4.5", 
+                        "250g": "10", 
+                        "50g": "2.5"
+                    }
+                }, 
+                "Japanischer Kirschblüten-Tee": {
+                    "description": "Sencha, Kirschen, Aroma", 
+                    "home": "../../../../", 
+                    "image_link": "img/teas/Japanischer Kirschblüten-Tee.jpg", 
+                    "link": "teas/Grüntee/Aromatisiert/Japanischer Kirschblüten-Tee.html", 
+                    "price": {
+                        "100g": "4.5", 
+                        "250g": "10", 
+                        "50g": "2.5"
+                    }
+                }, 
+                "Jasmin": {
+                    "description": "In China aromatisierter Tee mit Jasminblüten", 
+                    "home": "../../../../", 
+                    "image_link": "img/teas/Jasmin.jpg", 
+                    "link": "teas/Grüntee/Aromatisiert/Jasmin.html", 
+                    "price": {
+                        "100g": "4", 
+                        "250g": "8", 
+                        "50g": "2.5"
+                    }
+                }, 
+                "Jasmin Chung Hao": {
+                    "description": "Feinherber Geschmack, für Jasminliebhaber ein Muss", 
+                    "home": "../../../../", 
+                    "image_link": "img/teas/Jasmin Chung Hao.jpg", 
+                    "link": "teas/Grüntee/Aromatisiert/Jasmin Chung Hao.html", 
+                    "price": {
+                        "100g": "6.5", 
+                        "250g": "15", 
+                        "50g": "3.5"
+                    }
+                }, 
+                "Pfirsich Sencha": {
+                    "description": "Sencha, Sonnenblumenblüten, Aroma", 
+                    "home": "../../../../", 
+                    "image_link": "img/teas/Pfirsich Sencha.jpg", 
+                    "link": "teas/Grüntee/Aromatisiert/Pfirsich Sencha.html", 
+                    "price": {
+                        "100g": "4.5", 
+                        "250g": "10", 
+                        "50g": "2.5"
+                    }
+                }, 
+                "Sencha Orange": {
+                    "description": "Sencha, Orangenschalen, natürliches Aroma", 
+                    "home": "../../../../", 
+                    "image_link": "img/teas/Sencha Orange.jpg", 
+                    "link": "teas/Grüntee/Aromatisiert/Sencha Orange.html", 
+                    "price": {
+                        "100g": "4.5", 
+                        "250g": "10", 
+                        "50g": "2.5"
+                    }
+                }, 
+                "Vanille Sencha": {
+                    "description": "Sencha, Vanillestücke, Aroma", 
+                    "home": "../../../../", 
+                    "image_link": "img/teas/Vanille Sencha.jpg", 
+                    "link": "teas/Grüntee/Aromatisiert/Vanille Sencha.html", 
+                    "price": {
+                        "100g": "4.5", 
+                        "250g": "10", 
+                        "50g": "2.5"
+                    }
+                }, 
+                "Weißer Engel": {
+                    "description": "Sencha, Pai Mu Tan, Ananas, Lemongrass, Ginkoblätter, \nRosenknospen gelb, Kokosflocken, Aroma\n", 
+                    "home": "../../../../", 
+                    "image_link": "img/teas/Weißer Engel.jpg", 
+                    "link": "teas/Grüntee/Aromatisiert/Weißer Engel.html", 
+                    "price": {
+                        "100g": "6", 
+                        "250g": "12.5", 
+                        "50g": "3.5"
+                    }
+                }, 
+                "Wellness Oase (grüner Chai)": {
+                    "description": "Sencha, Zimt, Kardamom, Ingwer, Orangenblüten, Sternanis, \nNelken, sch. Pfeffer\n", 
+                    "home": "../../../../", 
+                    "image_link": "img/teas/Wellness Oase (grüner Chai).jpg", 
+                    "link": "teas/Grüntee/Aromatisiert/Wellness Oase (grüner Chai).html", 
+                    "price": {
+                        "100g": "5", 
+                        "250g": "10", 
+                        "50g": "3"
+                    }
+                }, 
+                "White Cassis Dream": {
+                    "description": "Weißer Tee, schwarzer u. roter Johannisbeeren, Sonnenblumen u. -Kornblumenblüten, Lemongras, Melissenblätter, Aroma", 
+                    "home": "../../../../", 
+                    "image_link": "img/teas/White Cassis Dream.jpg", 
+                    "link": "teas/Grüntee/Aromatisiert/White Cassis Dream.html", 
+                    "price": {
+                        "100g": "5.5", 
+                        "250g": "11.5", 
+                        "50g": "3"
+                    }
+                }, 
+                "Winterfee": {
+                    "description": "Sencha, Mandeln, Orangenschalen, Zimt, Aroma", 
+                    "home": "../../../../", 
+                    "image_link": "img/teas/Winterfee.jpg", 
+                    "link": "teas/Grüntee/Aromatisiert/Winterfee.html", 
+                    "price": {
+                        "100g": "4.5", 
+                        "250g": "10", 
+                        "50g": "2.5"
+                    }
+                }, 
+                "Zauberflöte Sencha": {
+                    "description": "Grüntee Korinthen, Mango u. Papayastücke, Kornblumen u. Rosenblüten, Katzenpfötchen, Aroma", 
+                    "home": "../../../../", 
+                    "image_link": "img/teas/Zauberflöte Sencha.jpg", 
+                    "link": "teas/Grüntee/Aromatisiert/Zauberflöte Sencha.html", 
+                    "price": {
+                        "100g": "4.5", 
+                        "250g": "10", 
+                        "50g": "2.5"
+                    }
+                }
+            }
+        }, 
+        "Ohne_Aroma": {
+            "home": "../../../", 
+            "image_link": "img/teas/Ohne_Aroma.jpg", 
+            "link": "teas/Grüntee/Ohne_Aroma/Ohne_Aroma.html", 
+            "teas": {
+                "Bio China Kukicha aus kbA": {
+                    "description": "dunkelgrünes Nadelblatt mit hellen Blattrippen, \nfrisches Aroma, wenig Teein und  Gerbstoffe\n", 
+                    "home": "../../../../", 
+                    "image_link": "img/teas/Bio China Kukicha aus kbA.jpg", 
+                    "link": "teas/Grüntee/Ohne_Aroma/Bio China Kukicha aus kbA.html", 
+                    "price": {
+                        "100g": "9", 
+                        "250g": "21,25", 
+                        "50g": "5"
+                    }
+                }, 
+                "Bio China Lung Ching": {
+                    "description": "Wenig bitter Stoffe, blumig, fruchtiger Geschmack, mildes \nleichtes Aroma, ebenso kalt wie warm \n", 
+                    "home": "../../../../", 
+                    "image_link": "img/teas/Bio China Lung Ching.jpg", 
+                    "link": "teas/Grüntee/Ohne_Aroma/Bio China Lung Ching.html", 
+                    "price": {
+                        "100g": "10.9", 
+                        "250g": "21.65", 
+                        "50g": "5.8"
+                    }
+                }, 
+                "Bio Darjeeling green Simpripani": {
+                    "description": "milder aromatischer Grüntee, weiche Tasse", 
+                    "home": "../../../../", 
+                    "image_link": "img/teas/Bio Darjeeling green Simpripani.jpg", 
+                    "link": "teas/Grüntee/Ohne_Aroma/Bio Darjeeling green Simpripani.html", 
+                    "price": {
+                        "100g": "6.9", 
+                        "250g": "16", 
+                        "50g": "3.5"
+                    }
+                }, 
+                "Bio Japan Sencha Yamato": {
+                    "description": "flaches, dunkelgrünes Blatt, klassische Grünteetasse aus kbA ", 
+                    "home": "../../../../", 
+                    "image_link": "img/teas/Bio Japan Sencha Yamato.jpg", 
+                    "link": "teas/Grüntee/Ohne_Aroma/Bio Japan Sencha Yamato.html", 
+                    "price": {
+                        "100g": "9.9", 
+                        "250g": "22", 
+                        "50g": "5.45"
+                    }
+                }, 
+                "China Gyokuro": {
+                    "description": "Allfeinstes, dunkelgrünes, gepresstes Blatt", 
+                    "home": "../../../../", 
+                    "image_link": "img/teas/China Gyokuro.jpg", 
+                    "link": "teas/Grüntee/Ohne_Aroma/China Gyokuro.html", 
+                    "price": {
+                        "100g": "12.5", 
+                        "250g": "30", 
+                        "50g": "6.5"
+                    }
+                }, 
+                "China Matcha": {
+                    "description": "Pulverisierter japanischer Grüntee für die Teezeremonie in 50 g Silberdose", 
+                    "home": "../../../../", 
+                    "image_link": "img/teas/China Matcha.jpg", 
+                    "link": "teas/Grüntee/Ohne_Aroma/China Matcha.html", 
+                    "price": {
+                        "100g": "", 
+                        "250g": "", 
+                        "50g": "14.9"
+                    }
+                }, 
+                "China Sencha Mokoto": {
+                    "description": "herber, aromatischer Tee, frischer belebender Geschmack", 
+                    "home": "../../../../", 
+                    "image_link": "img/teas/China Sencha Mokoto.jpg", 
+                    "link": "teas/Grüntee/Ohne_Aroma/China Sencha Mokoto.html", 
+                    "price": {
+                        "100g": "6.5", 
+                        "250g": "12", 
+                        "50g": "3.5"
+                    }
+                }, 
+                "Chun Mee": {
+                    "description": "grau – grünes Blatt, herber Geschmack", 
+                    "home": "../../../../", 
+                    "image_link": "img/teas/Chun Mee.jpg", 
+                    "link": "teas/Grüntee/Ohne_Aroma/Chun Mee.html", 
+                    "price": {
+                        "100g": "4", 
+                        "250g": "9", 
+                        "50g": "2.4"
+                    }
+                }, 
+                "Gunpowder": {
+                    "description": "grau – grünes kugeliges Blatt; helle gelbliche Tasse", 
+                    "home": "../../../../", 
+                    "image_link": "img/teas/Gunpowder.jpg", 
+                    "link": "teas/Grüntee/Ohne_Aroma/Gunpowder.html", 
+                    "price": {
+                        "100g": "4", 
+                        "250g": "9", 
+                        "50g": "2.25"
+                    }
+                }, 
+                "Japan Gyokuro": {
+                    "description": "Elegant-grünes Blatt in feiner Nadelform. Smaragdgrün leuchtendeTasse", 
+                    "home": "../../../../", 
+                    "image_link": "img/teas/Japan Gyokuro.jpg", 
+                    "link": "teas/Grüntee/Ohne_Aroma/Japan Gyokuro.html", 
+                    "price": {
+                        "100g": "25", 
+                        "250g": "61", 
+                        "50g": "13"
+                    }
+                }, 
+                "Pi Lo Chun": {
+                    "description": "aromatischer, zarter, blumiger Tee, dunkles gekräuseltes Blatt\neine exquisite Spezialität für besondere Anlässe\n", 
+                    "home": "../../../../", 
+                    "image_link": "img/teas/Pi Lo Chun.jpg", 
+                    "link": "teas/Grüntee/Ohne_Aroma/Pi Lo Chun.html", 
+                    "price": {
+                        "100g": "9", 
+                        "250g": "21.8", 
+                        "50g": "4.5"
+                    }
+                }, 
+                "Sencha China": {
+                    "description": "Herber, aromatischer Grüntee", 
+                    "home": "../../../../", 
+                    "image_link": "img/teas/Sencha China.jpg", 
+                    "link": "teas/Grüntee/Ohne_Aroma/Sencha China.html", 
+                    "price": {
+                        "100g": "4", 
+                        "250g": "9", 
+                        "50g": "2.4"
+                    }
+                }, 
+                "Sencha entkoffeiniert": {
+                    "description": "Grüner entkoffeinierter Sencha mit leicht herbem Geschmack", 
+                    "home": "../../../../", 
+                    "image_link": "img/teas/Sencha entkoffeiniert.jpg", 
+                    "link": "teas/Grüntee/Ohne_Aroma/Sencha entkoffeiniert.html", 
+                    "price": {
+                        "100g": "6.5", 
+                        "250g": "15.5", 
+                        "50g": "3.5"
+                    }
+                }, 
+                "Sweet Osmanthus": {
+                    "description": "Feiner, dunkelgrüner Tee versetz mit goldgelben Blüten des Osmanthusstrauches", 
+                    "home": "../../../../", 
+                    "image_link": "img/teas/Sweet Osmanthus.jpg", 
+                    "link": "teas/Grüntee/Ohne_Aroma/Sweet Osmanthus.html", 
+                    "price": {
+                        "100g": "6.5", 
+                        "250g": "15.5", 
+                        "50g": "3.5"
+                    }
+                }
+            }
+        }, 
+        "Weißer_Tee": {
+            "home": "../../../", 
+            "image_link": "img/teas/Weißer_Tee.jpg", 
+            "link": "teas/Grüntee/Weißer_Tee/Weißer_Tee.html", 
+            "teas": {
+                "Pai Mu Tan Tippy": {
+                    "description": "weißer Tee, großes Blatt, weiche aromatische Tasse", 
+                    "home": "../../../../", 
+                    "image_link": "img/teas/Pai Mu Tan Tippy.jpg", 
+                    "link": "teas/Grüntee/Weißer_Tee/Pai Mu Tan Tippy.html", 
+                    "price": {
+                        "100g": "8", 
+                        "250g": "17.5", 
+                        "50g": "4.5"
+                    }
+                }, 
+                "White Hair": {
+                    "description": "milder weißer Tee mit zartem, blumigem Aroma", 
+                    "home": "../../../../", 
+                    "image_link": "img/teas/White Hair.jpg", 
+                    "link": "teas/Grüntee/Weißer_Tee/White Hair.html", 
+                    "price": {
+                        "100g": "9", 
+                        "250g": "21.8", 
+                        "50g": "4.5"
+                    }
+                }
+            }
+        }, 
+        "home": "../../", 
+        "image_link": "img/teas/Grüntee.jpg", 
+        "link": "teas/Grüntee/Grüntee.html"
+    }, 
+    "Kräutertee": {
+        "Monokräuter": {
+            "home": "../../../", 
+            "image_link": "img/teas/Monokräuter.jpg", 
+            "link": "teas/Kräutertee/Monokräuter/Monokräuter.html", 
+            "teas": {
+                "Brennessel": {
+                    "description": "", 
+                    "home": "../../../../", 
+                    "image_link": "img/teas/Brennessel.jpg", 
+                    "link": "teas/Kräutertee/Monokräuter/Brennessel.html", 
+                    "price": {
+                        "100g": "3.5", 
+                        "250g": "8", 
+                        "50g": "2"
+                    }
+                }, 
+                "Fenchel": {
+                    "description": "", 
+                    "home": "../../../../", 
+                    "image_link": "img/teas/Fenchel.jpg", 
+                    "link": "teas/Kräutertee/Monokräuter/Fenchel.html", 
+                    "price": {
+                        "100g": "3", 
+                        "250g": "6", 
+                        "50g": "2"
+                    }
+                }, 
+                "Ingwerwurzel": {
+                    "description": "", 
+                    "home": "../../../../", 
+                    "image_link": "img/teas/Ingwerwurzel.jpg", 
+                    "link": "teas/Kräutertee/Monokräuter/Ingwerwurzel.html", 
+                    "price": {
+                        "100g": "3.5", 
+                        "250g": "8.5", 
+                        "50g": "2"
+                    }
+                }, 
+                "Lemongras": {
+                    "description": "", 
+                    "home": "../../../../", 
+                    "image_link": "img/teas/Lemongras.jpg", 
+                    "link": "teas/Kräutertee/Monokräuter/Lemongras.html", 
+                    "price": {
+                        "100g": "3.5", 
+                        "250g": "6", 
+                        "50g": "2"
+                    }
+                }, 
+                "Nanaminz": {
+                    "description": "", 
+                    "home": "../../../../", 
+                    "image_link": "img/teas/Nanaminz.jpg", 
+                    "link": "teas/Kräutertee/Monokräuter/Nanaminz.html", 
+                    "price": {
+                        "100g": "3.5", 
+                        "250g": "7", 
+                        "50g": "2"
+                    }
+                }, 
+                "Pfefferminzblätter": {
+                    "description": "", 
+                    "home": "../../../../", 
+                    "image_link": "img/teas/Pfefferminzblätter.jpg", 
+                    "link": "teas/Kräutertee/Monokräuter/Pfefferminzblätter.html", 
+                    "price": {
+                        "100g": "3.8", 
+                        "250g": "9", 
+                        "50g": "2.4"
+                    }
+                }, 
+                "Salbeiblätter": {
+                    "description": "", 
+                    "home": "../../../../", 
+                    "image_link": "img/teas/Salbeiblätter.jpg", 
+                    "link": "teas/Kräutertee/Monokräuter/Salbeiblätter.html", 
+                    "price": {
+                        "100g": "3.5", 
+                        "250g": "8", 
+                        "50g": "2"
+                    }
+                }, 
+                "Verbenent-Blätter-Tee (Frauen Tee)": {
+                    "description": "", 
+                    "home": "../../../../", 
+                    "image_link": "img/teas/Verbenent-Blätter-Tee (Frauen Tee).jpg", 
+                    "link": "teas/Kräutertee/Monokräuter/Verbenent-Blätter-Tee (Frauen Tee).html", 
+                    "price": {
+                        "100g": "5", 
+                        "250g": "11", 
+                        "50g": "3"
+                    }
+                }
+            }
+        }, 
+        "home": "../../", 
+        "image_link": "img/teas/Kräutertee.jpg", 
+        "link": "teas/Kräutertee/Kräutertee.html", 
+        "teas": {
+            "Bio Basentee": {
+                "description": "Fenchel, Anis, Kümmel, Brombeerblätter", 
+                "home": "../../../", 
+                "image_link": "img/teas/Bio Basentee.jpg", 
+                "link": "teas/Kräutertee/Bio Basentee.html", 
+                "price": {
+                    "100g": "4.5", 
+                    "250g": "10.5", 
+                    "50g": "2.5"
+                }
+            }, 
+            "Bio Kräutermischung Bleib Fit": {
+                "description": "Eine biologische Kräutermischung aus Korinander, Brenneselblättern, Kardamom, Nelken, Sonnenblumenblüten, Bohnenschalen, Lemongras, Minze, Orangenschalen, Zimtrinde, Ingwer u.- Apfelstücke, natürliches Aroma. Minze- Lemon- Geschmack", 
+                "home": "../../../", 
+                "image_link": "img/teas/Bio Kräutermischung Bleib Fit.jpg", 
+                "link": "teas/Kräutertee/Bio Kräutermischung Bleib Fit.html", 
+                "price": {
+                    "100g": "4.5", 
+                    "250g": "10", 
+                    "50g": "2.5"
+                }
+            }, 
+            "Bio Kräutermischung Entspann Dich": {
+                "description": "Eine biologische Kräutermischung aus Misterkraut, Brenneselblättern, Bohnenschalen, Lemongras, Birkenblättern, Weißdornbeeren, Johanniskraut, natürliches Aroma. Orangengeschmack", 
+                "home": "../../../", 
+                "image_link": "img/teas/Bio Kräutermischung Entspann Dich.jpg", 
+                "link": "teas/Kräutertee/Bio Kräutermischung Entspann Dich.html", 
+                "price": {
+                    "100g": "4.5", 
+                    "250g": "10", 
+                    "50g": "2.5"
+                }
+            }, 
+            "Entsäuerungstee": {
+                "description": "Pfefferminz, Fenchel, Kümmel, Süßholz, Kamille", 
+                "home": "../../../", 
+                "image_link": "img/teas/Entsäuerungstee.jpg", 
+                "link": "teas/Kräutertee/Entsäuerungstee.html", 
+                "price": {
+                    "100g": "4.5", 
+                    "250g": "10", 
+                    "50g": "2.5"
+                }
+            }, 
+            "Fitness": {
+                "description": "Apfelstücke, Rooibush, Zimtrinde, Ingwer, Bohnenhülsen, Lemongras, Mistelkraut, Johanniskraut, Johannisblätter, Kardamom, Ginsengwurzeln, Aroma", 
+                "home": "../../../", 
+                "image_link": "img/teas/Fitness.jpg", 
+                "link": "teas/Kräutertee/Fitness.html", 
+                "price": {
+                    "100g": "4", 
+                    "250g": "9", 
+                    "50g": "2.2"
+                }
+            }, 
+            "Schietwetter Tee": {
+                "description": "Brombeerblätter, Himbeerblätter, Sonnenblumenblüten, Fenchel, \nAnis, Hagebuttenschalen, Apfelwürfel, Melissenblätter, \nSpitzwegerichblätter, Holunderblüten, Pfefferminze, Aroma\n", 
+                "home": "../../../", 
+                "image_link": "img/teas/Schietwetter Tee.jpg", 
+                "link": "teas/Kräutertee/Schietwetter Tee.html", 
+                "price": {
+                    "100g": "4", 
+                    "250g": "9", 
+                    "50g": "2.5"
+                }
+            }, 
+            "Weihnachtskräuter Tee": {
+                "description": "Zutaten: Anis, Brombeerblätter, Thymian, Basilikum, Himbeerblätter, Hagebutte,\nHolunderblüte, Konigskerzenblüten, rote Johannisbeeren, Löwenzahnkraut,\nPfefferminze, Fenchel, Birkenblätter, Zinnkraut, Sonnenblumenblüten, Melisse, Rosenblüten und Aroma\n", 
+                "home": "../../../", 
+                "image_link": "img/teas/Weihnachtskräuter Tee.jpg", 
+                "link": "teas/Kräutertee/Weihnachtskräuter Tee.html", 
+                "price": {
+                    "100g": "4", 
+                    "250g": "9", 
+                    "50g": "2.5"
+                }
+            }
+        }
+    }, 
+    "Rooibush": {
+        "Aromatisiert": {
+            "home": "../../../", 
+            "image_link": "img/teas/Aromatisiert.jpg", 
+            "link": "teas/Rooibush/Aromatisiert/Aromatisiert.html", 
+            "teas": {
+                "Rooibush Chai Tee": {
+                    "description": "Rooibush, Kardamom, Ingwer, Nelken, rosa- u. schwarzer Pfeffer, Aroma", 
+                    "home": "../../../../", 
+                    "image_link": "img/teas/Rooibush Chai Tee.jpg", 
+                    "link": "teas/Rooibush/Aromatisiert/Rooibush Chai Tee.html", 
+                    "price": {
+                        "100g": "3.9", 
+                        "250g": "9", 
+                        "50g": "2"
+                    }
+                }, 
+                "Rooibush Cool Mountain": {
+                    "description": "grüner Rooibush, Lemongras, Zitronenschalen, Kornblumenblüten, Ginkoblätter, Orangenschalen, Minze, Aroma ", 
+                    "home": "../../../../", 
+                    "image_link": "img/teas/Rooibush Cool Mountain.jpg", 
+                    "link": "teas/Rooibush/Aromatisiert/Rooibush Cool Mountain.html", 
+                    "price": {
+                        "100g": "3.9", 
+                        "250g": "9", 
+                        "50g": "2"
+                    }
+                }, 
+                "Rooibush Erdbeer-Sahne": {
+                    "description": "Rooibush, Erdbeerstücke, Aroma", 
+                    "home": "../../../../", 
+                    "image_link": "img/teas/Rooibush Erdbeer-Sahne.jpg", 
+                    "link": "teas/Rooibush/Aromatisiert/Rooibush Erdbeer-Sahne.html", 
+                    "price": {
+                        "100g": "3.9", 
+                        "250g": "9", 
+                        "50g": "2.25"
+                    }
+                }, 
+                "Rooibush Ingwer – Lemon": {
+                    "description": "Rooibush, Lemongras, Zitonenschalen, Aroma", 
+                    "home": "../../../../", 
+                    "image_link": "img/teas/Rooibush Ingwer – Lemon.jpg", 
+                    "link": "teas/Rooibush/Aromatisiert/Rooibush Ingwer – Lemon.html", 
+                    "price": {
+                        "100g": "3.9", 
+                        "250g": "9", 
+                        "50g": "2"
+                    }
+                }, 
+                "Rooibush Kaktusfeige": {
+                    "description": "Rooibush, Feigen-und Kiwistücke, Rosenknospen, Brombeerblätter, Aroma", 
+                    "home": "../../../../", 
+                    "image_link": "img/teas/Rooibush Kaktusfeige.jpg", 
+                    "link": "teas/Rooibush/Aromatisiert/Rooibush Kaktusfeige.html", 
+                    "price": {
+                        "100g": "3.9", 
+                        "250g": "9", 
+                        "50g": "2"
+                    }
+                }, 
+                "Rooibush Marzipan": {
+                    "description": "Rooibush, Mandeln, Katzenpfötchen, Aroma", 
+                    "home": "../../../../", 
+                    "image_link": "img/teas/Rooibush Marzipan.jpg", 
+                    "link": "teas/Rooibush/Aromatisiert/Rooibush Marzipan.html", 
+                    "price": {
+                        "100g": "3.9", 
+                        "250g": "9", 
+                        "50g": "2.25"
+                    }
+                }, 
+                "Rooibush Orange/Kaktusfeige": {
+                    "description": "Rooibush, Papaya, Fruchtig weicher Orangen Kaktusfeigen Geschmack, Süßholzwurzel, Aroma", 
+                    "home": "../../../../", 
+                    "image_link": "img/teas/Rooibush Orange/Kaktusfeige.jpg", 
+                    "link": "teas/Rooibush/Aromatisiert/Rooibush Orange/Kaktusfeige.html", 
+                    "price": {
+                        "100g": "3.9", 
+                        "250g": "9", 
+                        "50g": "2"
+                    }
+                }, 
+                "Rooibush Sahne Karamell": {
+                    "description": "Rootbusch Tee, Karamellstücke, Aroma", 
+                    "home": "../../../../", 
+                    "image_link": "img/teas/Rooibush Sahne Karamell.jpg", 
+                    "link": "teas/Rooibush/Aromatisiert/Rooibush Sahne Karamell.html", 
+                    "price": {
+                        "100g": "3.9", 
+                        "250g": "9", 
+                        "50g": "2"
+                    }
+                }, 
+                "Rooibush Sanddorn Kirsch": {
+                    "description": "Rooibushtee, Sanddorn, Kirscharoma", 
+                    "home": "../../../../", 
+                    "image_link": "img/teas/Rooibush Sanddorn Kirsch.jpg", 
+                    "link": "teas/Rooibush/Aromatisiert/Rooibush Sanddorn Kirsch.html", 
+                    "price": {
+                        "100g": "3.9", 
+                        "250g": "9", 
+                        "50g": "2.25"
+                    }
+                }, 
+                "Rooibush Schoko Chili": {
+                    "description": "Rooibush, Apfel u. Chilistücke, Schokosplits, rosa Pfeffer, Kardamom, Sonnenblumenblüten, Aroma", 
+                    "home": "../../../../", 
+                    "image_link": "img/teas/Rooibush Schoko Chili.jpg", 
+                    "link": "teas/Rooibush/Aromatisiert/Rooibush Schoko Chili.html", 
+                    "price": {
+                        "100g": "3.9", 
+                        "250g": "9", 
+                        "50g": "2.4"
+                    }
+                }, 
+                "Rooibush Vanille": {
+                    "description": "Rooibush Tee, Vanilleschoten, Aroma", 
+                    "home": "../../../../", 
+                    "image_link": "img/teas/Rooibush Vanille.jpg", 
+                    "link": "teas/Rooibush/Aromatisiert/Rooibush Vanille.html", 
+                    "price": {
+                        "100g": "3.9", 
+                        "250g": "9", 
+                        "50g": "2"
+                    }
+                }, 
+                "Rooibush Weihnachtsduft": {
+                    "description": "Apfel u. Zimt Stücke, Koriander, Stern Anis, Nelken, Orangenspalten, rote Pfefferkörner", 
+                    "home": "../../../../", 
+                    "image_link": "img/teas/Rooibush Weihnachtsduft.jpg", 
+                    "link": "teas/Rooibush/Aromatisiert/Rooibush Weihnachtsduft.html", 
+                    "price": {
+                        "100g": "3.9", 
+                        "250g": "9", 
+                        "50g": "2.4"
+                    }
+                }, 
+                "Rooibush Zaubervogel": {
+                    "description": "Korinthen, Papaya, Ananasstücke, Rosenblüten, Kornblumenblüten, Aroma", 
+                    "home": "../../../../", 
+                    "image_link": "img/teas/Rooibush Zaubervogel.jpg", 
+                    "link": "teas/Rooibush/Aromatisiert/Rooibush Zaubervogel.html", 
+                    "price": {
+                        "100g": "3.9", 
+                        "250g": "9", 
+                        "50g": "2"
+                    }
+                }
+            }
+        }, 
+        "Pur": {
+            "home": "../../../", 
+            "image_link": "img/teas/Pur.jpg", 
+            "link": "teas/Rooibush/Pur/Pur.html", 
+            "teas": {
+                "Honey Bush": {
+                    "description": "Südafrikanischer Kräutertee, honigweiches, fruchtig- süßes Aroma", 
+                    "home": "../../../../", 
+                    "image_link": "img/teas/Honey Bush.jpg", 
+                    "link": "teas/Rooibush/Pur/Honey Bush.html", 
+                    "price": {
+                        "100g": "3.9", 
+                        "250g": "9", 
+                        "50g": "2"
+                    }
+                }, 
+                "Rooibush Massai-Tee": {
+                    "description": "Kräutertee aus dem Südafrikanischen Cedar Gebirge", 
+                    "home": "../../../../", 
+                    "image_link": "img/teas/Rooibush Massai-Tee.jpg", 
+                    "link": "teas/Rooibush/Pur/Rooibush Massai-Tee.html", 
+                    "price": {
+                        "100g": "3.9", 
+                        "250g": "9", 
+                        "50g": "2"
+                    }
+                }
+            }
+        }, 
+        "home": "../../", 
+        "image_link": "img/teas/Rooibush.jpg", 
+        "link": "teas/Rooibush/Rooibush.html"
+    }, 
+    "Roonefeldt": {
+        "Aromatisierter_Grüner_und_Weißertee": {
+            "home": "../../../", 
+            "image_link": "img/teas/Aromatisierter_Grüner_und_Weißertee.jpg", 
+            "link": "teas/Roonefeldt/Aromatisierter_Grüner_und_Weißertee/Aromatisierter_Grüner_und_Weißertee.html", 
+            "teas": {
+                "Japanisches Geheimnis": {
+                    "description": "Aromatisierte Grünteemischung mit Erdbeergeschmack .\nDie leicht süßliche Note des Genmaicha mit seinem gerösteten Naturreis wird ergänzt durch einen klaren Senchageschmack und gekrönt von fruchtigem Erdbeer-Flavour. \nMit: Grüner Tee, gerösteter Reis, Aroma, Erdbeerstückchen\n", 
+                    "home": "../../../../", 
+                    "image_link": "img/teas/Japanisches Geheimnis.jpg", 
+                    "link": "teas/Roonefeldt/Aromatisierter_Grüner_und_Weißertee/Japanisches Geheimnis.html", 
+                    "price": {
+                        "100g": "5.5", 
+                        "250g": "", 
+                        "50g": ""
+                    }
+                }, 
+                "Morgentau": {
+                    "description": "Aromatisierter Grüner Tee mit Mango-Zitrusgeschmack \nFaszinierende Komposition mit großblättrigem Sencha und ungewöhnlich fein-fruchtigen Aromen und Blüten. Mit: Grüner Tee, Aroma, Sonnenblumen-, Rosen-, Kornblumenblüten\n", 
+                    "home": "../../../../", 
+                    "image_link": "img/teas/Morgentau.jpg", 
+                    "link": "teas/Roonefeldt/Aromatisierter_Grüner_und_Weißertee/Morgentau.html", 
+                    "price": {
+                        "100g": "5.6", 
+                        "250g": "", 
+                        "50g": ""
+                    }
+                }, 
+                "Pfirsischblüte": {
+                    "description": "Aromatisierte Mischung aus Grünem Tee und Fruchtstückchen, Pfirsichgeschmack \nFeiner Sencha komponiert mit Früchten und Blüten, eingehüllt in ein zartes, duftiges Pfirsicharoma. Mit:  Grüner Tee (80%), Mangostückchen (Mango, Zucker), Pfirsichstückchen (Pfirsich, Reismehl), Aroma, Rosenblüten\n", 
+                    "home": "../../../../", 
+                    "image_link": "img/teas/Pfirsischblüte.jpg", 
+                    "link": "teas/Roonefeldt/Aromatisierter_Grüner_und_Weißertee/Pfirsischblüte.html", 
+                    "price": {
+                        "100g": "5", 
+                        "250g": "", 
+                        "50g": ""
+                    }
+                }, 
+                "Weisser Mangotraum ": {
+                    "description": "Aromatisierter Weißer Tee mit Mango-Bergamottegeschmack .\nReife Mango und ein Hauch von Zitrus legen sich nachhaltig über den fein-blumigen weißen Pai Mu Tan. Ein leichter und duftiger Tee, der wenig Tannin enthält. \nMit: Weißer Tee (Pai Mu Tan), Aroma\n", 
+                    "home": "../../../../", 
+                    "image_link": "img/teas/Weisser Mangotraum .jpg", 
+                    "link": "teas/Roonefeldt/Aromatisierter_Grüner_und_Weißertee/Weisser Mangotraum .html", 
+                    "price": {
+                        "100g": "6.7", 
+                        "250g": "", 
+                        "50g": ""
+                    }
+                }
+            }
+        }, 
+        "Aromatisierter_Schwarztee": {
+            "home": "../../../", 
+            "image_link": "img/teas/Aromatisierter_Schwarztee.jpg", 
+            "link": "teas/Roonefeldt/Aromatisierter_Schwarztee/Aromatisierter_Schwarztee.html", 
+            "teas": {
+                "Special Earl Grey ": {
+                    "description": "Aromatisierter Schwarzer Tee mit Bergamottegeschmack \nFrisches Bergamotte-Aroma in verführerischer Verbindung mit wertvollen Tees aus Indien kräftig und intensiv im Geschmack. \n", 
+                    "home": "../../../../", 
+                    "image_link": "img/teas/Special Earl Grey .jpg", 
+                    "link": "teas/Roonefeldt/Aromatisierter_Schwarztee/Special Earl Grey .html", 
+                    "price": {
+                        "100g": "4.8", 
+                        "250g": "", 
+                        "50g": ""
+                    }
+                }
+            }
+        }, 
+        "Kräutertee": {
+            "home": "../../../", 
+            "image_link": "img/teas/Kräutertee.jpg", 
+            "link": "teas/Roonefeldt/Kräutertee/Kräutertee.html", 
+            "teas": {
+                "Ginger & Lemon ": {
+                    "description": "Charaktervoller Kräutertee mit der fruchtigen Schärfe des Ingwers, unterstützt durch die zitronige Frische von Zitronengras und aromareicher Minze.\n Zutaten: Ingwer, Zitronengras, Zitronenschale, Süßholzwurzel, Krauseminze, Kornblumenblüten, rosa Pfeffer\n", 
+                    "home": "../../../../", 
+                    "image_link": "img/teas/Ginger & Lemon .jpg", 
+                    "link": "teas/Roonefeldt/Kräutertee/Ginger & Lemon .html", 
+                    "price": {
+                        "100g": "4.9", 
+                        "250g": "", 
+                        "50g": ""
+                    }
+                }, 
+                "Ingwer Zitronenmyrte ": {
+                    "description": "Harmonisches Zusammenspiel der angenehm frischen Schärfe des Ingwer und duftender Zitronenmyrte - das pefekte Genussduett.", 
+                    "home": "../../../../", 
+                    "image_link": "img/teas/Ingwer Zitronenmyrte .jpg", 
+                    "link": "teas/Roonefeldt/Kräutertee/Ingwer Zitronenmyrte .html", 
+                    "price": {
+                        "100g": "4.9", 
+                        "250g": "", 
+                        "50g": ""
+                    }
+                }, 
+                "Ingwer auf Kräutern ": {
+                    "description": "Ein richtiger Wellness-Tee mit echter Ingwerwurzel und Kräutern, die wohltun und einen frischen und frohen Tag erleben lassen. Zutaten: Ingwer, Anis, Fenchel, Süßholzwurzel, Zitronengras, schwarze Pfefferkörner, Zimtstückchen, Kamillenblüten, süße Brombeerblätter, Rosenblüten, Zitronenverbene", 
+                    "home": "../../../../", 
+                    "image_link": "img/teas/Ingwer auf Kräutern .jpg", 
+                    "link": "teas/Roonefeldt/Kräutertee/Ingwer auf Kräutern .html", 
+                    "price": {
+                        "100g": "4.9", 
+                        "250g": "", 
+                        "50g": ""
+                    }
+                }, 
+                "Lavendeltraum": {
+                    "description": "Angenehm würziger Thymian trifft auf sanften Lavendel. Genießen Sie Yin und Yang – eine harmonische Verbindung, die durch die leichte Spritzigkeit der Zitronenmyrte abgerundet wird.", 
+                    "home": "../../../../", 
+                    "image_link": "img/teas/Lavendeltraum.jpg", 
+                    "link": "teas/Roonefeldt/Kräutertee/Lavendeltraum.html", 
+                    "price": {
+                        "100g": "4.9", 
+                        "250g": "", 
+                        "50g": ""
+                    }
+                }, 
+                "Orange auf Kräutern": {
+                    "description": "Eine dezente Zitrusfrische liegt über diesem eleganten Kräutertee mit angenehm fruchtigem Aroma und der reifen Süße von Orangen.\nZutaten: Apfelstückchen, Zitronenverbene, Zitronengras, Zitronenschale, Zitronenmyrte, Orangensaftstückchen, Orangenstücke, Ringelblumenblüten\n", 
+                    "home": "../../../../", 
+                    "image_link": "img/teas/Orange auf Kräutern.jpg", 
+                    "link": "teas/Roonefeldt/Kräutertee/Orange auf Kräutern.html", 
+                    "price": {
+                        "100g": "4.9", 
+                        "250g": "", 
+                        "50g": ""
+                    }
+                }, 
+                "Schlummertrunk": {
+                    "description": "Wohltuende Mischung beruhigender Kräuter, die auf natürliche Art den Tag ausklingen lässt.\nZutaten: Kamillenblüten**, Pfefferminz-**, Melissen-**, Erdbeerblätter**, Fenchel**, Orangenblüten**, schwarze Johannisbeerblätter**, Lavendel-**, Rosenblüten**Bio-Zertifizierung\n", 
+                    "home": "../../../../", 
+                    "image_link": "img/teas/Schlummertrunk.jpg", 
+                    "link": "teas/Roonefeldt/Kräutertee/Schlummertrunk.html", 
+                    "price": {
+                        "100g": "4.9", 
+                        "250g": "", 
+                        "50g": ""
+                    }
+                }
+            }
+        }, 
+        "Rooibush": {
+            "home": "../../../", 
+            "image_link": "img/teas/Rooibush.jpg", 
+            "link": "teas/Roonefeldt/Rooibush/Rooibush.html", 
+            "teas": {
+                "Rooibos Orange-Sahne ": {
+                    "description": "Aromatisierter Kräutertee mit Orange-Sahnegeschmack \nDas ist der nachhaltige Geschmack des Südens: Verführerische Orangenfrische und samtige Vanille-Sahne auf herzhaftem Rooibos. Mit: Rooibos, Aroma, Orangenschale, Vanillestückchen\n", 
+                    "home": "../../../../", 
+                    "image_link": "img/teas/Rooibos Orange-Sahne .jpg", 
+                    "link": "teas/Roonefeldt/Rooibush/Rooibos Orange-Sahne .html", 
+                    "price": {
+                        "100g": "4.9", 
+                        "250g": "", 
+                        "50g": ""
+                    }
+                }
+            }
+        }, 
+        "Schwarztee": {
+            "home": "../../../", 
+            "image_link": "img/teas/Schwarztee.jpg", 
+            "link": "teas/Roonefeldt/Schwarztee/Schwarztee.html", 
+            "teas": {
+                "Assam Bari (ex Mokalbarie) GFBOP": {
+                    "description": "Ein Klassiker unter den Broken-Tees: Viele goldene Tips, malzig-würziges und lebendiges Aroma zeichnen diesen Assam-Tee aus.", 
+                    "home": "../../../../", 
+                    "image_link": "img/teas/Assam Bari (ex Mokalbarie) GFBOP.jpg", 
+                    "link": "teas/Roonefeldt/Schwarztee/Assam Bari (ex Mokalbarie) GFBOP.html", 
+                    "price": {
+                        "100g": "10.6", 
+                        "250g": "", 
+                        "50g": ""
+                    }
+                }, 
+                "Darjeeling Margaret's Hope FTGFOP": {
+                    "description": "Aus einem bevorzugten Teegarten im North Valley für körperreichen und aromatischen Second-Flush-Darjeeling auch für kalkhaltiges Wasser geeignet. ", 
+                    "home": "../../../../", 
+                    "image_link": "img/teas/Darjeeling Margaret's Hope FTGFOP.jpg", 
+                    "link": "teas/Roonefeldt/Schwarztee/Darjeeling Margaret's Hope FTGFOP.html", 
+                    "price": {
+                        "100g": "8.5", 
+                        "250g": "", 
+                        "50g": ""
+                    }
+                }
+            }
+        }, 
+        "WhitePeach": {
+            "home": "../../../", 
+            "image_link": "img/teas/WhitePeach.jpg", 
+            "link": "teas/Roonefeldt/WhitePeach/WhitePeach.html", 
+            "teas": {
+                "White Peach": {
+                    "description": "Aromatisierter Früchtetee mit Pfirsichgeschmack \nEin heller, angenehm weicher Früchtetee, dessen pikant-süßliche Pfirsichnote ideal mit der zarten Spritzigkeit der Zitronenmyrte harmoniert. Mit: Apfel-, Ananasstückchen (Ananas, Zucker), Hagebuttenschale, Pfirsichstückchen (Pfirsich, Reismehl), Aroma, Sonnenblumen-, Rosenblüten, Zitronenmyrte, Kornblumenblüten\n", 
+                    "home": "../../../../", 
+                    "image_link": "img/teas/White Peach.jpg", 
+                    "link": "teas/Roonefeldt/WhitePeach/White Peach.html", 
+                    "price": {
+                        "100g": "4.1", 
+                        "250g": "", 
+                        "50g": ""
+                    }
+                }
+            }
+        }, 
+        "home": "../../", 
+        "image_link": "img/teas/Roonefeldt.jpg", 
+        "link": "teas/Roonefeldt/Roonefeldt.html"
+    }, 
+    "Schwarztee": {
+        "Aromatisiert": {
+            "home": "../../../", 
+            "image_link": "img/teas/Aromatisiert.jpg", 
+            "link": "teas/Schwarztee/Aromatisiert/Aromatisiert.html", 
+            "teas": {
+                "1001 Nacht": {
+                    "description": "Schwarzer Tee, Mandel, Caramel u. Apfelstücke, Zimtrinde, Ingwer, Aroma", 
+                    "home": "../../../../", 
+                    "image_link": "img/teas/1001 Nacht.jpg", 
+                    "link": "teas/Schwarztee/Aromatisiert/1001 Nacht.html", 
+                    "price": {
+                        "100g": "4", 
+                        "250g": "9", 
+                        "50g": "2.3"
+                    }
+                }, 
+                "Azar Tee": {
+                    "description": "Unsere Hausmischung aus Darjeeling, Assam und Earl Grey", 
+                    "home": "../../../../", 
+                    "image_link": "img/teas/Azar Tee.jpg", 
+                    "link": "teas/Schwarztee/Aromatisiert/Azar Tee.html", 
+                    "price": {
+                        "100g": "3.9", 
+                        "250g": "9", 
+                        "50g": "2"
+                    }
+                }, 
+                "Black Currant": {
+                    "description": "Schwarzer Tee, rote Johannisbeeren, Johannisblätter, Aroma", 
+                    "home": "../../../../", 
+                    "image_link": "img/teas/Black Currant.jpg", 
+                    "link": "teas/Schwarztee/Aromatisiert/Black Currant.html", 
+                    "price": {
+                        "100g": "3.9", 
+                        "250g": "9", 
+                        "50g": "2"
+                    }
+                }, 
+                "Chai Choco": {
+                    "description": "Schwarzer Tee,  Schokosplits, Mini Baiser, Süßholz, Zimt, Kandis, Kardamom, Ingwer, Nelken, schwarzer Pfeffer", 
+                    "home": "../../../../", 
+                    "image_link": "img/teas/Chai Choco.jpg", 
+                    "link": "teas/Schwarztee/Aromatisiert/Chai Choco.html", 
+                    "price": {
+                        "100g": "4", 
+                        "250g": "9", 
+                        "50g": "2.3"
+                    }
+                }, 
+                "Chai Rashne Hindra": {
+                    "description": "Schwarzer Tee, Zimt, Kandis, Kardamom, Ingwer, Nelken, schwarzer Pfeffer", 
+                    "home": "../../../../", 
+                    "image_link": "img/teas/Chai Rashne Hindra.jpg", 
+                    "link": "teas/Schwarztee/Aromatisiert/Chai Rashne Hindra.html", 
+                    "price": {
+                        "100g": "5.5", 
+                        "250g": "12", 
+                        "50g": "3"
+                    }
+                }, 
+                "Earl Grey": {
+                    "description": "schwarzer Tee, Aroma", 
+                    "home": "../../../../", 
+                    "image_link": "img/teas/Earl Grey.jpg", 
+                    "link": "teas/Schwarztee/Aromatisiert/Earl Grey.html", 
+                    "price": {
+                        "100g": "3.9", 
+                        "250g": "9", 
+                        "50g": "2"
+                    }
+                }, 
+                "Earl Grey Blue Star mit Darjeeling": {
+                    "description": "Darjeeling Tee, Kornblumenblüten, Aroma", 
+                    "home": "../../../../", 
+                    "image_link": "img/teas/Earl Grey Blue Star mit Darjeeling.jpg", 
+                    "link": "teas/Schwarztee/Aromatisiert/Earl Grey Blue Star mit Darjeeling.html", 
+                    "price": {
+                        "100g": "4.5", 
+                        "250g": "10", 
+                        "50g": "2.3"
+                    }
+                }, 
+                "English-Karamell": {
+                    "description": "schwarzer Tee, Karamellstücke, Aroma", 
+                    "home": "../../../../", 
+                    "image_link": "img/teas/English-Karamell.jpg", 
+                    "link": "teas/Schwarztee/Aromatisiert/English-Karamell.html", 
+                    "price": {
+                        "100g": "3.9", 
+                        "250g": "9", 
+                        "50g": "2"
+                    }
+                }, 
+                "Erdbeer-Sahne": {
+                    "description": "schwarzer Tee, Erdbeerblätter, Erdbeerstücke, Aroma", 
+                    "home": "../../../../", 
+                    "image_link": "img/teas/Erdbeer-Sahne.jpg", 
+                    "link": "teas/Schwarztee/Aromatisiert/Erdbeer-Sahne.html", 
+                    "price": {
+                        "100g": "3.9", 
+                        "250g": "9", 
+                        "50g": "2"
+                    }
+                }, 
+                "Frische Brise": {
+                    "description": "Schwarzer Tee, Pfefferminze, Ohne_Aroma", 
+                    "home": "../../../../", 
+                    "image_link": "img/teas/Frische Brise.jpg", 
+                    "link": "teas/Schwarztee/Aromatisiert/Frische Brise.html", 
+                    "price": {
+                        "100g": "3.9", 
+                        "250g": "9", 
+                        "50g": "2"
+                    }
+                }, 
+                "Lemon": {
+                    "description": "Schwarzer Tee, Zitronenschalen, Aroma", 
+                    "home": "../../../../", 
+                    "image_link": "img/teas/Lemon.jpg", 
+                    "link": "teas/Schwarztee/Aromatisiert/Lemon.html", 
+                    "price": {
+                        "100g": "3.9", 
+                        "250g": "9", 
+                        "50g": "2"
+                    }
+                }, 
+                "Madame Grey": {
+                    "description": "Schwarzer Tee, Kornblumenblüten, Orangenschalen, Aroma", 
+                    "home": "../../../../", 
+                    "image_link": "img/teas/Madame Grey.jpg", 
+                    "link": "teas/Schwarztee/Aromatisiert/Madame Grey.html", 
+                    "price": {
+                        "100g": "4", 
+                        "250g": "9", 
+                        "50g": "2.3"
+                    }
+                }, 
+                "Marzipan": {
+                    "description": "schwarzer Tee, Mandelstücke, Aroma", 
+                    "home": "../../../../", 
+                    "image_link": "img/teas/Marzipan.jpg", 
+                    "link": "teas/Schwarztee/Aromatisiert/Marzipan.html", 
+                    "price": {
+                        "100g": "3.9", 
+                        "250g": "9", 
+                        "50g": "2"
+                    }
+                }, 
+                "Orange mit Schalen": {
+                    "description": "Schwarzer Tee, Orangenschalen, Aroma", 
+                    "home": "../../../../", 
+                    "image_link": "img/teas/Orange mit Schalen.jpg", 
+                    "link": "teas/Schwarztee/Aromatisiert/Orange mit Schalen.html", 
+                    "price": {
+                        "100g": "3.9", 
+                        "250g": "9", 
+                        "50g": "2"
+                    }
+                }, 
+                "Orangenplätzchen": {
+                    "description": "Apfel u. Zimtstücke, Koriander, Kardamom, rosa Pfefferkörner, Orangenspalten, \nNelken, Aroma", 
+                    "home": "../../../../", 
+                    "image_link": "img/teas/Orangenplätzchen.jpg", 
+                    "link": "teas/Schwarztee/Aromatisiert/Orangenplätzchen.html", 
+                    "price": {
+                        "100g": "4", 
+                        "250g": "9", 
+                        "50g": "2.3"
+                    }
+                }, 
+                "Rhababer-Sahne": {
+                    "description": "Schwarzer Tee, Aroma", 
+                    "home": "../../../../", 
+                    "image_link": "img/teas/Rhababer-Sahne.jpg", 
+                    "link": "teas/Schwarztee/Aromatisiert/Rhababer-Sahne.html", 
+                    "price": {
+                        "100g": "3.5", 
+                        "250g": "9", 
+                        "50g": "2"
+                    }
+                }, 
+                "Sahne-Karamell": {
+                    "description": "Schwarzer Tee, Karamellstücke, Aroma", 
+                    "home": "../../../../", 
+                    "image_link": "img/teas/Sahne-Karamell.jpg", 
+                    "link": "teas/Schwarztee/Aromatisiert/Sahne-Karamell.html", 
+                    "price": {
+                        "100g": "3.9", 
+                        "250g": "9", 
+                        "50g": "2"
+                    }
+                }, 
+                "Sanddorn": {
+                    "description": "Schwarzer Tee, Sanddornbeeren, Saflorblüten, Vitamin C, Aroma", 
+                    "home": "../../../../", 
+                    "image_link": "img/teas/Sanddorn.jpg", 
+                    "link": "teas/Schwarztee/Aromatisiert/Sanddorn.html", 
+                    "price": {
+                        "100g": "4", 
+                        "250g": "9", 
+                        "50g": "2.3"
+                    }
+                }, 
+                "Vanille": {
+                    "description": "Schwarzer Tee, Vanilleschoten, Aroma", 
+                    "home": "../../../../", 
+                    "image_link": "img/teas/Vanille.jpg", 
+                    "link": "teas/Schwarztee/Aromatisiert/Vanille.html", 
+                    "price": {
+                        "100g": "3.9", 
+                        "250g": "9", 
+                        "50g": "2"
+                    }
+                }, 
+                "Weihnachtstee": {
+                    "description": "Zimt, Mandel, Nelken, Kornblumen, Saflorblüten, Aroma", 
+                    "home": "../../../../", 
+                    "image_link": "img/teas/Weihnachtstee.jpg", 
+                    "link": "teas/Schwarztee/Aromatisiert/Weihnachtstee.html", 
+                    "price": {
+                        "100g": "3.9", 
+                        "250g": "9", 
+                        "50g": "2"
+                    }
+                }, 
+                "Wildkirsch": {
+                    "description": "Schwarzer Tee, Aroma", 
+                    "home": "../../../../", 
+                    "image_link": "img/teas/Wildkirsch.jpg", 
+                    "link": "teas/Schwarztee/Aromatisiert/Wildkirsch.html", 
+                    "price": {
+                        "100g": "3.9", 
+                        "250g": "9", 
+                        "50g": "2"
+                    }
+                }, 
+                "Zaubervogel": {
+                    "description": "Korinthen, Papaya, Mangostücke, Rosenblüten, Kornblumenblüten, Aroma", 
+                    "home": "../../../../", 
+                    "image_link": "img/teas/Zaubervogel.jpg", 
+                    "link": "teas/Schwarztee/Aromatisiert/Zaubervogel.html", 
+                    "price": {
+                        "100g": "4", 
+                        "250g": "9", 
+                        "50g": "2.3"
+                    }
+                }, 
+                "Zimt": {
+                    "description": "Schwarzer Tee, Zimtrinde, Aroma", 
+                    "home": "../../../../", 
+                    "image_link": "img/teas/Zimt.jpg", 
+                    "link": "teas/Schwarztee/Aromatisiert/Zimt.html", 
+                    "price": {
+                        "100g": "3.9", 
+                        "250g": "9", 
+                        "50g": "2"
+                    }
+                }
+            }
+        }, 
+        "Ohne_Aroma": {
+            "Afrika": {
+                "home": "../../../../", 
+                "image_link": "img/teas/Afrika.jpg", 
+                "link": "teas/Schwarztee/Ohne_Aroma/Afrika/Afrika.html", 
+                "teas": {
+                    "Kenya GFBOP": {
+                        "description": "Zwischen Blatt und Broken, kräftig-würziger Tee", 
+                        "home": "../../../../../", 
+                        "image_link": "img/teas/Kenya GFBOP.jpg", 
+                        "link": "teas/Schwarztee/Ohne_Aroma/Afrika/Kenya GFBOP.html", 
+                        "price": {
+                            "100g": "4", 
+                            "250g": "9", 
+                            "50g": "2.5"
+                        }
+                    }
+                }
+            }, 
+            "Assam": {
+                "home": "../../../../", 
+                "image_link": "img/teas/Assam.jpg", 
+                "link": "teas/Schwarztee/Ohne_Aroma/Assam/Assam.html", 
+                "teas": {
+                    "Assam FOP Bukhial": {
+                        "description": "Mildwürziger Blatt-tee", 
+                        "home": "../../../../../", 
+                        "image_link": "img/teas/Assam FOP Bukhial.jpg", 
+                        "link": "teas/Schwarztee/Ohne_Aroma/Assam/Assam FOP Bukhial.html", 
+                        "price": {
+                            "100g": "4", 
+                            "250g": "9", 
+                            "50g": "2"
+                        }
+                    }, 
+                    "Assam FTGFOP Meleng": {
+                        "description": "Kräftiger Assam, exquisites Aroma", 
+                        "home": "../../../../../", 
+                        "image_link": "img/teas/Assam FTGFOP Meleng.jpg", 
+                        "link": "teas/Schwarztee/Ohne_Aroma/Assam/Assam FTGFOP Meleng.html", 
+                        "price": {
+                            "100g": "9", 
+                            "250g": "22", 
+                            "50g": "4.7"
+                        }
+                    }, 
+                    "Assam GFOP Malty „Herrentee“": {
+                        "description": "Malziger, herber Herrentee", 
+                        "home": "../../../../../", 
+                        "image_link": "img/teas/Assam GFOP Malty „Herrentee“.jpg", 
+                        "link": "teas/Schwarztee/Ohne_Aroma/Assam/Assam GFOP Malty „Herrentee“.html", 
+                        "price": {
+                            "100g": "4.8", 
+                            "250g": "11", 
+                            "50g": "2.75"
+                        }
+                    }, 
+                    "Assam TGFOP Khomtaie": {
+                        "description": "Stark getippter Tee, aromatisch und würzig", 
+                        "home": "../../../../../", 
+                        "image_link": "img/teas/Assam TGFOP Khomtaie.jpg", 
+                        "link": "teas/Schwarztee/Ohne_Aroma/Assam/Assam TGFOP Khomtaie.html", 
+                        "price": {
+                            "100g": "6.9", 
+                            "250g": "16.25", 
+                            "50g": "3.5"
+                        }
+                    }
+                }
+            }, 
+            "Ceylon": {
+                "home": "../../../../", 
+                "image_link": "img/teas/Ceylon.jpg", 
+                "link": "teas/Schwarztee/Ohne_Aroma/Ceylon/Ceylon.html", 
+                "teas": {
+                    "Ceylon OP Medium": {
+                        "description": "Milder aromatische Tasse", 
+                        "home": "../../../../../", 
+                        "image_link": "img/teas/Ceylon OP Medium.jpg", 
+                        "link": "teas/Schwarztee/Ohne_Aroma/Ceylon/Ceylon OP Medium.html", 
+                        "price": {
+                            "100g": "4", 
+                            "250g": "9", 
+                            "50g": "2"
+                        }
+                    }
+                }
+            }, 
+            "Darjeeling": {
+                "home": "../../../../", 
+                "image_link": "img/teas/Darjeeling.jpg", 
+                "link": "teas/Schwarztee/Ohne_Aroma/Darjeeling/Darjeeling.html", 
+                "teas": {
+                    "Bio Darjeeling FTGFOP ff Aktiontee": {
+                        "description": "Frischer, duftiger Geschmack, helle Tasse, Bio First Flush", 
+                        "home": "../../../../../", 
+                        "image_link": "img/teas/Bio Darjeeling FTGFOP ff Aktiontee.jpg", 
+                        "link": "teas/Schwarztee/Ohne_Aroma/Darjeeling/Bio Darjeeling FTGFOP ff Aktiontee.html", 
+                        "price": {
+                            "100g": "6.5", 
+                            "250g": "10", 
+                            "50g": "3.75"
+                        }
+                    }, 
+                    "Bio Darjeeling Flugtee ff FTGFOP": {
+                        "description": "Hocharomatischer first flush, blumig u. spritzig im Geschmack", 
+                        "home": "../../../../../", 
+                        "image_link": "img/teas/Bio Darjeeling Flugtee ff FTGFOP.jpg", 
+                        "link": "teas/Schwarztee/Ohne_Aroma/Darjeeling/Bio Darjeeling Flugtee ff FTGFOP.html", 
+                        "price": {
+                            "100g": "12.9", 
+                            "250g": "31.25", 
+                            "50g": "6.9"
+                        }
+                    }, 
+                    "Bio Darjeeling Snowview FTGFOP ff": {
+                        "description": "Vollblumiger, hocharomatischer Bio First Flush", 
+                        "home": "../../../../../", 
+                        "image_link": "img/teas/Bio Darjeeling Snowview FTGFOP ff.jpg", 
+                        "link": "teas/Schwarztee/Ohne_Aroma/Darjeeling/Bio Darjeeling Snowview FTGFOP ff.html", 
+                        "price": {
+                            "100g": "7.5", 
+                            "250g": "17.5", 
+                            "50g": "4.25"
+                        }
+                    }, 
+                    "Darjeeling FTGFOP ff Ambootia": {
+                        "description": "vollblumig, spritzig in der Tasse", 
+                        "home": "../../../../../", 
+                        "image_link": "img/teas/Darjeeling FTGFOP ff Ambootia.jpg", 
+                        "link": "teas/Schwarztee/Ohne_Aroma/Darjeeling/Darjeeling FTGFOP ff Ambootia.html", 
+                        "price": {
+                            "100g": "6.9", 
+                            "250g": "16.25", 
+                            "50g": "3.45"
+                        }
+                    }, 
+                    "Darjeeling OP Longview": {
+                        "description": "milder, aromatischer sf", 
+                        "home": "../../../../../", 
+                        "image_link": "img/teas/Darjeeling OP Longview.jpg", 
+                        "link": "teas/Schwarztee/Ohne_Aroma/Darjeeling/Darjeeling OP Longview.html", 
+                        "price": {
+                            "100g": "4", 
+                            "250g": "9", 
+                            "50g": "2"
+                        }
+                    }
+                }
+            }, 
+            "Mischungen": {
+                "home": "../../../../", 
+                "image_link": "img/teas/Mischungen.jpg", 
+                "link": "teas/Schwarztee/Ohne_Aroma/Mischungen/Mischungen.html", 
+                "teas": {
+                    "Eckernförder Ostseegold": {
+                        "description": "Ostfriesen Blatt, Sonnenblumenblüten, Pfirsichduft", 
+                        "home": "../../../../../", 
+                        "image_link": "img/teas/Eckernförder Ostseegold.jpg", 
+                        "link": "teas/Schwarztee/Ohne_Aroma/Mischungen/Eckernförder Ostseegold.html", 
+                        "price": {
+                            "100g": "3.9", 
+                            "250g": "9", 
+                            "50g": "2"
+                        }
+                    }, 
+                    "Eckernförder Sommerfrische": {
+                        "description": "Ostfriesen Blatt, Sonnenblumenblüten, Pfirsichduft", 
+                        "home": "../../../../../", 
+                        "image_link": "img/teas/Eckernförder Sommerfrische.jpg", 
+                        "link": "teas/Schwarztee/Ohne_Aroma/Mischungen/Eckernförder Sommerfrische.html", 
+                        "price": {
+                            "100g": "3.9", 
+                            "250g": "9", 
+                            "50g": "2"
+                        }
+                    }, 
+                    "English Breakfast": {
+                        "description": "milder, Assam - Cylon – Darjeeling –Mischung, würziger Blatt Tee", 
+                        "home": "../../../../../", 
+                        "image_link": "img/teas/English Breakfast.jpg", 
+                        "link": "teas/Schwarztee/Ohne_Aroma/Mischungen/English Breakfast.html", 
+                        "price": {
+                            "100g": "3.9", 
+                            "250g": "9", 
+                            "50g": "2"
+                        }
+                    }, 
+                    "Golden Nepal": {
+                        "description": "Kräftig, würzige Darjeeling - Assam Mischung", 
+                        "home": "../../../../../", 
+                        "image_link": "img/teas/Golden Nepal.jpg", 
+                        "link": "teas/Schwarztee/Ohne_Aroma/Mischungen/Golden Nepal.html", 
+                        "price": {
+                            "100g": "3.9", 
+                            "250g": "9", 
+                            "50g": "2"
+                        }
+                    }, 
+                    "Ostfriesen Blatt": {
+                        "description": "Assam – Ceylon Mischung, leicht malzig im Geschmack", 
+                        "home": "../../../../../", 
+                        "image_link": "img/teas/Ostfriesen Blatt.jpg", 
+                        "link": "teas/Schwarztee/Ohne_Aroma/Mischungen/Ostfriesen Blatt.html", 
+                        "price": {
+                            "100g": "3.9", 
+                            "250g": "9", 
+                            "50g": "2"
+                        }
+                    }, 
+                    "Ostfriesen Premium": {
+                        "description": "Assam – Ceylon Mischung, leicht malzig im Geschmack", 
+                        "home": "../../../../../", 
+                        "image_link": "img/teas/Ostfriesen Premium.jpg", 
+                        "link": "teas/Schwarztee/Ohne_Aroma/Mischungen/Ostfriesen Premium.html", 
+                        "price": {
+                            "100g": "5.5", 
+                            "250g": "12.5", 
+                            "50g": "3"
+                        }
+                    }, 
+                    "Ostfriesen Sonntagstee": {
+                        "description": "Würziger Ostfriesentee mit feiner Vanille Note", 
+                        "home": "../../../../../", 
+                        "image_link": "img/teas/Ostfriesen Sonntagstee.jpg", 
+                        "link": "teas/Schwarztee/Ohne_Aroma/Mischungen/Ostfriesen Sonntagstee.html", 
+                        "price": {
+                            "100g": "4", 
+                            "250g": "9", 
+                            "50g": "2.2"
+                        }
+                    }
+                }
+            }, 
+            "Oolong": {
+                "home": "../../../../", 
+                "image_link": "img/teas/Oolong.jpg", 
+                "link": "teas/Schwarztee/Ohne_Aroma/Oolong/Oolong.html", 
+                "teas": {
+                    "Formosa Fine Oolong": {
+                        "description": "Milder, leichter Oolongtee aus Taiwan", 
+                        "home": "../../../../../", 
+                        "image_link": "img/teas/Formosa Fine Oolong.jpg", 
+                        "link": "teas/Schwarztee/Ohne_Aroma/Oolong/Formosa Fine Oolong.html", 
+                        "price": {
+                            "100g": "4.5", 
+                            "250g": "10", 
+                            "50g": "2.75"
+                        }
+                    }, 
+                    "Himmels Oolong": {
+                        "description": "Feinster, hocharomatischer Oolong", 
+                        "home": "../../../../../", 
+                        "image_link": "img/teas/Himmels Oolong.jpg", 
+                        "link": "teas/Schwarztee/Ohne_Aroma/Oolong/Himmels Oolong.html", 
+                        "price": {
+                            "100g": "8.9", 
+                            "250g": "21.25", 
+                            "50g": "4.95"
+                        }
+                    }, 
+                    "Milky Oolong": {
+                        "description": "Der wird unter Milchdämpfen gewelkt", 
+                        "home": "../../../../../", 
+                        "image_link": "img/teas/Milky Oolong.jpg", 
+                        "link": "teas/Schwarztee/Ohne_Aroma/Oolong/Milky Oolong.html", 
+                        "price": {
+                            "100g": "8.9", 
+                            "250g": "21.25", 
+                            "50g": "4.95"
+                        }
+                    }, 
+                    "Oolong Orangenblüten": {
+                        "description": "halbfrementierter Tee mit Orangenblüten und Aroma", 
+                        "home": "../../../../../", 
+                        "image_link": "img/teas/Oolong Orangenblüten.jpg", 
+                        "link": "teas/Schwarztee/Ohne_Aroma/Oolong/Oolong Orangenblüten.html", 
+                        "price": {
+                            "100g": "4.5", 
+                            "250g": "10", 
+                            "50g": "2.75"
+                        }
+                    }
+                }
+            }, 
+            "aus_China": {
+                "home": "../../../../", 
+                "image_link": "img/teas/aus_China.jpg", 
+                "link": "teas/Schwarztee/Ohne_Aroma/aus_China/aus_China.html", 
+                "teas": {
+                    "Keemun": {
+                        "description": "Milder Schwarztee mit wenig Teein", 
+                        "home": "../../../../../", 
+                        "image_link": "img/teas/Keemun.jpg", 
+                        "link": "teas/Schwarztee/Ohne_Aroma/aus_China/Keemun.html", 
+                        "price": {
+                            "100g": "3.9", 
+                            "250g": "9", 
+                            "50g": "2.25"
+                        }
+                    }, 
+                    "Tarry Lapsang Souchong": {
+                        "description": "Kräftiger Rauchtee", 
+                        "home": "../../../../../", 
+                        "image_link": "img/teas/Tarry Lapsang Souchong.jpg", 
+                        "link": "teas/Schwarztee/Ohne_Aroma/aus_China/Tarry Lapsang Souchong.html", 
+                        "price": {
+                            "100g": "5", 
+                            "250g": "11", 
+                            "50g": "2.8"
+                        }
+                    }, 
+                    "Yünan Gold GFOP": {
+                        "description": "Würzig aromatischer Geschmack", 
+                        "home": "../../../../../", 
+                        "image_link": "img/teas/Yünan Gold GFOP.jpg", 
+                        "link": "teas/Schwarztee/Ohne_Aroma/aus_China/Yünan Gold GFOP.html", 
+                        "price": {
+                            "100g": "4.5", 
+                            "250g": "9", 
+                            "50g": "2.75"
+                        }
+                    }
+                }
+            }, 
+            "home": "../../../", 
+            "image_link": "img/teas/Ohne_Aroma.jpg", 
+            "link": "teas/Schwarztee/Ohne_Aroma/Ohne_Aroma.html", 
+            "ohne_teein": {
+                "home": "../../../../", 
+                "image_link": "img/teas/ohne_teein.jpg", 
+                "link": "teas/Schwarztee/Ohne_Aroma/ohne_teein/ohne_teein.html", 
+                "teas": {
+                    "Ceylan Infree OP Blatt": {
+                        "description": "entkoffeinierter Blatt Tee", 
+                        "home": "../../../../../", 
+                        "image_link": "img/teas/Ceylan Infree OP Blatt.jpg", 
+                        "link": "teas/Schwarztee/Ohne_Aroma/ohne_teein/Ceylan Infree OP Blatt.html", 
+                        "price": {
+                            "100g": "6.5", 
+                            "250g": "15", 
+                            "50g": "3.5"
+                        }
+                    }, 
+                    "Darjeeling Infree OP Blatt": {
+                        "description": "entkoffeinierter Blatt Tee", 
+                        "home": "../../../../../", 
+                        "image_link": "img/teas/Darjeeling Infree OP Blatt.jpg", 
+                        "link": "teas/Schwarztee/Ohne_Aroma/ohne_teein/Darjeeling Infree OP Blatt.html", 
+                        "price": {
+                            "100g": "7.9", 
+                            "250g": "18.75", 
+                            "50g": "4"
+                        }
+                    }
+                }
+            }
+        }, 
+        "home": "../../", 
+        "image_link": "img/teas/Schwarztee.jpg", 
+        "link": "teas/Schwarztee/Schwarztee.html"
+    }, 
+    "home": "../", 
+    "link": "teas/teas.html"
+}
