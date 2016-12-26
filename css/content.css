@@ -2431,7 +2431,7 @@
 	    right:0;
 	    background-color: rgba(35,35,45,0.8);
 	    padding:25px;
-	    opacity: 0;
+	    opacity: 1;
 	    -webkit-transition: all 0.3s ease-in 0.4s; transition: all 0.3s ease-in 0.4s;
 	}
 	.view:hover .mask,
@@ -2452,7 +2452,7 @@
 		font-family:"Montserrat",sans-serif;
 	   	color: #dedee4;
 	   	position: relative;
-	   	font-size: 20px;
+	   	font-size: 40px;
 	   	font-weight:400;
 	   	opacity: 0;
 	   	margin-bottom:15px;
@@ -2468,7 +2468,7 @@
 
 	/* Text */
 	.view .text {
-	    font-size: 12px;
+	    font-size: 18px;
 	    position: relative;
 	    color: #dedee4;
 	    font-family:"Montserrat", sans-serif;
