@@ -223,9 +223,30 @@ def create_catagory_page(data, page_title):
         
             with open(os.path.join('content/', tlink), 'w') as toutfile:
                 tfiledata = tfiledata.replace('{{description}}', vt['description'])
-                tfiledata = tfiledata.replace('{{50g}}', vt['price']['50g'].replace(' ', 'N/A').replace('.', ','))
-                tfiledata = tfiledata.replace('{{100g}}', vt['price']['100g'].replace(' ', 'N/A').replace('.', ','))
-                tfiledata = tfiledata.replace('{{250g}}', vt['price']['250g'].replace(' ', 'N/A').replace('.', ','))
+                
+                fiftyg = vt['price']['50g'].replace('.', ',')
+                onekg = vt['price']['100g'].replace('.', ',')
+                twofiftyg = vt['price']['250g'].replace('.', ',')
+                
+                if fiftyg != "":
+                    fiftyg = '€'+fiftyg
+                else:
+                    fiftyg = 'NA'
+                
+                if onekg != "":
+                    onekg = '€'+fiftyg
+                else:
+                    onekg = 'NA'
+                    
+                if twofiftyg != "":
+                    twofiftyg = '€'+fiftyg
+                else:
+                    twofiftyg = 'NA'
+                    
+                    
+                tfiledata = tfiledata.replace('{{50g}}', fiftyg)
+                tfiledata = tfiledata.replace('{{100g}}', onekg)
+                tfiledata = tfiledata.replace('{{250g}}', twofiftyg)
                 toutfile.write(tfiledata)
             
             
