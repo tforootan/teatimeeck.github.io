@@ -15,11 +15,11 @@
                     "50g": "2"
                 }
             }, 
-            "Lapacho (Inka Tee) ": {
+            "Lapacho [Inka Tee] ": {
                 "description": "Südamerikanischer Rindentee, auch Inka Tee genannt", 
                 "home": "../../../", 
-                "image_link": "img/teas/Lapacho (Inka Tee) .jpg", 
-                "link": "teas/Andere_Anbaugebiete/Lapacho (Inka Tee) .html", 
+                "image_link": "img/teas/Lapacho [Inka Tee] .jpg", 
+                "link": "teas/Andere_Anbaugebiete/Lapacho [Inka Tee] .html", 
                 "price": {
                     "100g": "4", 
                     "250g": "9", 
@@ -95,17 +95,6 @@
         "image_link": "img/teas/Früchtetee.jpg", 
         "link": "teas/Früchtetee/Früchtetee.html", 
         "teas": {
-            "(Rote Grütze) Eckernförder Grütze\t": {
-                "description": "Apfel, rote Bete, Korinthen, Johannisbeeren, Hagebutten, Holunderbeeren, Brombeeren, Heildelbeeren, Himbeeren, Rosenblütenblätter, Aroma\n\n", 
-                "home": "../../../", 
-                "image_link": "img/teas/(Rote Grütze) Eckernförder Grütze\t.jpg", 
-                "link": "teas/Früchtetee/(Rote Grütze) Eckernförder Grütze\t.html", 
-                "price": {
-                    "100g": "4", 
-                    "250g": "9", 
-                    "50g": "2.1"
-                }
-            }, 
             "Adventstee Früchte": {
                 "description": "Basis, Orangenschalen, Zimtrinde, Nelken, Aroma", 
                 "home": "../../../", 
@@ -122,6 +111,17 @@
                 "home": "../../../", 
                 "image_link": "img/teas/Banane Kirsch.jpg", 
                 "link": "teas/Früchtetee/Banane Kirsch.html", 
+                "price": {
+                    "100g": "4", 
+                    "250g": "9", 
+                    "50g": "2.1"
+                }
+            }, 
+            "Eckernförder Grütze Rote Grütze": {
+                "description": "Apfel, rote Bete, Korinthen, Johannisbeeren, Hagebutten, Holunderbeeren, Brombeeren, Heildelbeeren, Himbeeren, Rosenblütenblätter, Aroma\n\n", 
+                "home": "../../../", 
+                "image_link": "img/teas/Eckernförder Grütze Rote Grütze.jpg", 
+                "link": "teas/Früchtetee/Eckernförder Grütze Rote Grütze.html", 
                 "price": {
                     "100g": "4", 
                     "250g": "9", 
@@ -378,11 +378,11 @@
                         "50g": "3.5"
                     }
                 }, 
-                "Wellness Oase (grüner Chai)": {
+                "Wellness Oase [grüner Chai]": {
                     "description": "Sencha, Zimt, Kardamom, Ingwer, Orangenblüten, Sternanis, \nNelken, sch. Pfeffer\n", 
                     "home": "../../../../", 
-                    "image_link": "img/teas/Wellness Oase (grüner Chai).jpg", 
-                    "link": "teas/Grüntee/Aromatisiert/Wellness Oase (grüner Chai).html", 
+                    "image_link": "img/teas/Wellness Oase [grüner Chai].jpg", 
+                    "link": "teas/Grüntee/Aromatisiert/Wellness Oase [grüner Chai].html", 
                     "price": {
                         "100g": "5", 
                         "250g": "10", 
@@ -701,11 +701,11 @@
                         "50g": "2"
                     }
                 }, 
-                "Verbenent-Blätter-Tee (Frauen Tee)": {
+                "Verbenent-Blätter-Tee [Frauen Tee]": {
                     "description": "", 
                     "home": "../../../../", 
-                    "image_link": "img/teas/Verbenent-Blätter-Tee (Frauen Tee).jpg", 
-                    "link": "teas/Kräutertee/Monokräuter/Verbenent-Blätter-Tee (Frauen Tee).html", 
+                    "image_link": "img/teas/Verbenent-Blätter-Tee [Frauen Tee].jpg", 
+                    "link": "teas/Kräutertee/Monokräuter/Verbenent-Blätter-Tee [Frauen Tee].html", 
                     "price": {
                         "100g": "5", 
                         "250g": "11", 
@@ -869,11 +869,11 @@
                         "50g": "2.25"
                     }
                 }, 
-                "Rooibush Orange/Kaktusfeige": {
+                "Rooibush OrangeOderKaktusfeige": {
                     "description": "Rooibush, Papaya, Fruchtig weicher Orangen Kaktusfeigen Geschmack, Süßholzwurzel, Aroma", 
                     "home": "../../../../", 
-                    "image_link": "img/teas/Rooibush Orange/Kaktusfeige.jpg", 
-                    "link": "teas/Rooibush/Aromatisiert/Rooibush Orange/Kaktusfeige.html", 
+                    "image_link": "img/teas/Rooibush OrangeOderKaktusfeige.jpg", 
+                    "link": "teas/Rooibush/Aromatisiert/Rooibush OrangeOderKaktusfeige.html", 
                     "price": {
                         "100g": "3.9", 
                         "250g": "9", 
@@ -1056,11 +1056,11 @@
             "image_link": "img/teas/Kräutertee.jpg", 
             "link": "teas/Roonefeldt/Kräutertee/Kräutertee.html", 
             "teas": {
-                "Ginger & Lemon ": {
+                "GingerUndLemon ": {
                     "description": "Charaktervoller Kräutertee mit der fruchtigen Schärfe des Ingwers, unterstützt durch die zitronige Frische von Zitronengras und aromareicher Minze.\n Zutaten: Ingwer, Zitronengras, Zitronenschale, Süßholzwurzel, Krauseminze, Kornblumenblüten, rosa Pfeffer\n", 
                     "home": "../../../../", 
-                    "image_link": "img/teas/Ginger & Lemon .jpg", 
-                    "link": "teas/Roonefeldt/Kräutertee/Ginger & Lemon .html", 
+                    "image_link": "img/teas/GingerUndLemon .jpg", 
+                    "link": "teas/Roonefeldt/Kräutertee/GingerUndLemon .html", 
                     "price": {
                         "100g": "4.9", 
                         "250g": "", 
@@ -1147,22 +1147,22 @@
             "image_link": "img/teas/Schwarztee.jpg", 
             "link": "teas/Roonefeldt/Schwarztee/Schwarztee.html", 
             "teas": {
-                "Assam Bari (ex Mokalbarie) GFBOP": {
+                "Assam Bari [ex Mokalbarie] GFBOP": {
                     "description": "Ein Klassiker unter den Broken-Tees: Viele goldene Tips, malzig-würziges und lebendiges Aroma zeichnen diesen Assam-Tee aus.", 
                     "home": "../../../../", 
-                    "image_link": "img/teas/Assam Bari (ex Mokalbarie) GFBOP.jpg", 
-                    "link": "teas/Roonefeldt/Schwarztee/Assam Bari (ex Mokalbarie) GFBOP.html", 
+                    "image_link": "img/teas/Assam Bari [ex Mokalbarie] GFBOP.jpg", 
+                    "link": "teas/Roonefeldt/Schwarztee/Assam Bari [ex Mokalbarie] GFBOP.html", 
                     "price": {
                         "100g": "10.6", 
                         "250g": "", 
                         "50g": ""
                     }
                 }, 
-                "Darjeeling Margaret's Hope FTGFOP": {
+                "Darjeeling Margarets Hope FTGFOP": {
                     "description": "Aus einem bevorzugten Teegarten im North Valley für körperreichen und aromatischen Second-Flush-Darjeeling auch für kalkhaltiges Wasser geeignet. ", 
                     "home": "../../../../", 
-                    "image_link": "img/teas/Darjeeling Margaret's Hope FTGFOP.jpg", 
-                    "link": "teas/Roonefeldt/Schwarztee/Darjeeling Margaret's Hope FTGFOP.html", 
+                    "image_link": "img/teas/Darjeeling Margarets Hope FTGFOP.jpg", 
+                    "link": "teas/Roonefeldt/Schwarztee/Darjeeling Margarets Hope FTGFOP.html", 
                     "price": {
                         "100g": "8.5", 
                         "250g": "", 

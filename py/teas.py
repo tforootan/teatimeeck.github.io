@@ -24,11 +24,14 @@ entry_tempalte = '''
 '''
 
 
-def call(command, show=True):
+def call(command, show=False):
     if show:
-        print(command)
+        print ">> "+command
     result = subprocess.Popen(command, shell=True, stdout=subprocess.PIPE).stdout.read()
-    print(result)
+    if result == "":
+        pass
+    else:
+        print "OUT: " + result
     return result
 
 
@@ -175,16 +178,25 @@ def create_catagory_page(data, page_title):
 
     ########## teas ##########
     if type(v) == dict and 'teas' in data:
-        print "tea............"
-
+        print "############### tea #####################"
+        
         for kt, vt in data['teas'].iteritems():
+            
             thome = vt['home']
             tlink = vt['link'].replace(' ', '_')
             
             tea_entry = entry_tempalte[:]
             tea_entry = tea_entry.replace('{{prev}}', home)
-            vt['image_link'] = '../img/comingsoon.jpg' # temp
-            tea_entry = tea_entry.replace('{{image_link}}', vt['image_link'])
+            
+            
+            if os.path.exists('../'+vt['image_link'].replace(' ', '_')):
+                #print vt['image_link']
+                pass
+            else:
+                vt['image_link'] = '../img/comingsoon.jpg' # temp
+                
+            
+            tea_entry = tea_entry.replace('{{image_link}}', vt['image_link'].replace(' ', '_'))
             tea_entry = tea_entry.replace('{{title}}', kt)
             tea_entry = tea_entry.replace('{{sub_title}}', vt['description'])
             tea_entry = tea_entry.replace('{{link}}', tlink)
@@ -195,17 +207,7 @@ def create_catagory_page(data, page_title):
             
             call('cp tea_template.html content/%s' % tlink)
             
-            # with open('content/'+tlink, 'r') as infile:
-            #     filedata=infile.read()
-        
-            # with open('content/'+tlink, 'w') as outfile:
-            #     filedata = filedata.replace('{{prev}}', '../'+thome)
-            #     filedata = filedata.replace('{{title}}', kt)
-            #     filedata = filedata.replace('{{sub_title}}', '')
-            #     filedata = filedata.replace('{{name}}', kt)
-            #     filedata = filedata.replace('{{description}}', vt['description'])
-            #     filedata = filedata.replace('{{description}}', vt['description'])
-            #     outfile.write(filedata)
+            
             
             call("sed -i 's,{{prev}},%s,g' content/%s" % (home, tlink))
             call("sed -i 's,{{title}},%s,g' content/%s" % (kt, tlink))
@@ -213,13 +215,18 @@ def create_catagory_page(data, page_title):
             call("sed -i 's,{{sub_title}},%s,g' content/%s" % (' ', tlink))
             call("sed -i 's,{{image_link}},%s,g' content/%s" % (vt['image_link'], tlink))
 
-            call("sed -i 's?{{description}}?%s?g' content/%s" % (vt['description'], tlink))
+            #call("sed -i 's?{{description}}?%s?g' content/%s" % (vt['description'], tlink))
             
-
+            # with open(os.path.join('content/', str(tlink)), 'r') as tinfile:
+            #     tfiledata=tinfile.read()
+        
+            # with open(os.path.join('content/', tlink), 'w') as toutfile:
+            #     tfiledata = tfiledata.replace('{{description}}', vt['description'])
+            #     toutfile.write(tfiledata)
             
             
             
-        print ('end tea ...........')
+        print ('############## end tea ##################')
 
     #########################
         

@@ -66,9 +66,15 @@ Nelken, Aroma"
 56,Grüntee - Ohne_Aroma,China Sencha Mokoto,3.5,6.5,12,"herber, aromatischer Tee, frischer belebender Geschmack"
 57,Grüntee - Ohne_Aroma,Bio Japan Sencha Yamato,5.45,9.9,22,"flaches, dunkelgrünes Blatt, klassische Grünteetasse aus kbA "
 58,Grüntee - Ohne_Aroma,Bio Darjeeling green Simpripani,3.5,6.9,16,"milder aromatischer Grüntee, weiche Tasse"
-59,Grüntee - Ohne_Aroma,Bio China Kukicha aus kbA,5,9,"21,25","dunkelgrünes Nadelblatt mit hellen Blattrippen, frisches Aroma, wenig Teein und  Gerbstoffe"
-60,Grüntee - Ohne_Aroma,Bio China Lung Ching,5.8,10.9,21.65,"Wenig bitter Stoffe, blumig, fruchtiger Geschmack, mildes leichtes Aroma, ebenso kalt wie warm "
-61,Grüntee - Ohne_Aroma,Pi Lo Chun,4.5,9,21.8,"aromatischer, zarter, blumiger Tee, dunkles gekräuseltes Blatteine exquisite Spezialität für besondere Anlässe"
+59,Grüntee - Ohne_Aroma,Bio China Kukicha aus kbA,5,9,"21,25","dunkelgrünes Nadelblatt mit hellen Blattrippen, 
+frisches Aroma, wenig Teein und  Gerbstoffe
+"
+60,Grüntee - Ohne_Aroma,Bio China Lung Ching,5.8,10.9,21.65,"Wenig bitter Stoffe, blumig, fruchtiger Geschmack, mildes 
+leichtes Aroma, ebenso kalt wie warm 
+"
+61,Grüntee - Ohne_Aroma,Pi Lo Chun,4.5,9,21.8,"aromatischer, zarter, blumiger Tee, dunkles gekräuseltes Blatt
+eine exquisite Spezialität für besondere Anlässe
+"
 62,Grüntee - Ohne_Aroma,China Matcha,14.9,,,Pulverisierter japanischer Grüntee für die Teezeremonie in 50 g Silberdose
 63,Grüntee - Ohne_Aroma,China Gyokuro,6.5,12.5,30,"Allfeinstes, dunkelgrünes, gepresstes Blatt"
 64,Grüntee - Ohne_Aroma,Japan Gyokuro,13,25,61,Elegant-grünes Blatt in feiner Nadelform. Smaragdgrün leuchtendeTasse
@@ -84,23 +90,35 @@ Nelken, Aroma"
 72,Grüntee - Aromatisiert,Vanille Sencha,2.5,4.5,10,"Sencha, Vanillestücke, Aroma"
 73,Grüntee - Aromatisiert,Winterfee,2.5,4.5,10,"Sencha, Mandeln, Orangenschalen, Zimt, Aroma"
 74,Grüntee - Aromatisiert,Japanischer Kirschblüten-Tee,2.5,4.5,10,"Sencha, Kirschen, Aroma"
-75,Grüntee - Aromatisiert,7 grüne Kostbarkeiten,2.5,5.5,12.5,"Sencha, Chun Mee, Gunpowder, Pai Mu Tan, Pi Lo Chun,Ananasstücke, Erdbeerstücke, Sonnenblumenblüten, Aroma"
+75,Grüntee - Aromatisiert,7 grüne Kostbarkeiten,2.5,5.5,12.5,"Sencha, Chun Mee, Gunpowder, Pai Mu Tan, Pi Lo Chun,
+Ananasstücke, Erdbeerstücke, Sonnenblumenblüten, Aroma
+"
 76,Grüntee - Aromatisiert,Zauberflöte Sencha,2.5,4.5,10,"Grüntee Korinthen, Mango u. Papayastücke, Kornblumen u. Rosenblüten, Katzenpfötchen, Aroma"
-77,Grüntee - Aromatisiert,Weißer Engel,3.5,6,12.5,"Sencha, Pai Mu Tan, Ananas, Lemongrass, Ginkoblätter, Rosenknospen gelb, Kokosflocken, Aroma"
+77,Grüntee - Aromatisiert,Weißer Engel,3.5,6,12.5,"Sencha, Pai Mu Tan, Ananas, Lemongrass, Ginkoblätter, 
+Rosenknospen gelb, Kokosflocken, Aroma
+"
 78,Grüntee - Aromatisiert,White Cassis Dream,3,5.5,11.5,"Weißer Tee, schwarzer u. roter Johannisbeeren, Sonnenblumen u. -Kornblumenblüten, Lemongras, Melissenblätter, Aroma"
 79,Grüntee - Aromatisiert,Ingwer Zitrone,2.5,4.5,10,"Sencha, Zitronenschale, Ingwer, Lemongras, Ginkoblätter, natürliches Zitronenaroma"
 80,Grüntee - Aromatisiert,Ingwer Ananas,2.5,4.5,10,"Sencha, Ingwer Ananas und Aroma "
 81,Grüntee - Aromatisiert,Frische Brise,2.5,4.5,10,"Grüner Sencha, Pfefferminze, natürliches Minzöl "
-82,Grüntee - Aromatisiert,Wellness Oase (grüner Chai),3,5,10,"Sencha, Zimt, Kardamom, Ingwer, Orangenblüten, Sternanis, Nelken, sch. Pfeffer"
+82,Grüntee - Aromatisiert,Wellness Oase [grüner Chai],3,5,10,"Sencha, Zimt, Kardamom, Ingwer, Orangenblüten, Sternanis, 
+Nelken, sch. Pfeffer
+"
 83,Grüntee - Aromatisiert,Sencha Orange,2.5,4.5,10,"Sencha, Orangenschalen, natürliches Aroma"
-84,Grüntee - Aromatisiert,Grüner Eistee,2.5,4.5,10,"Grüner Tee, Zitronenschalen, Lemon Gras, natürliches AromaAls Basis: Hagebuttenschalen, Hibiskus, Apfelstücke (Alle aromatisierten Früchtetees )"
+84,Grüntee - Aromatisiert,Grüner Eistee,2.5,4.5,10,"Grüner Tee, Zitronenschalen, Lemon Gras, natürliches Aroma
+Als Basis: Hagebuttenschalen, Hibiskus, Apfelstücke (Alle aromatisierten Früchtetees )
+"
 ,,,,,,
-85,Früchtetee,Früchte Dschungelblüte,2.1,4,9,"Basis, Ananas- u. Mangostücke, Malven- u. Sonnenblumenblüten und Aroma"
+85,Früchtetee,Früchte Dschungelblüte,2.1,4,9,"Basis, Ananas- u. Mangostücke, Malven- u. Sonnenblumenblüten und Aroma
+
+"
 86,Früchtetee,Früchte Eckernförder Brandung,2.1,4,9,"Holunder u. Weinbeeren, Hibiskus u. Kornblumenblüten, Korinthen, Aroma"
 87,Früchtetee,Früchte Pina Colada,2.1,4,9,"Früchte Basis, Ananas, Kokosraspel, Kokoschips, Aroma"
 88,Früchtetee,Banane Kirsch,2.1,4,9,"Basis, Ananas, Papaya, Bananenstücke, Rosenblüten, Aroma"
 89,Früchtetee,Erdbeer Sahne,2.1,4,9,"Basis, Erdbeerstücke, Aroma"
-90,Früchtetee,(Rote Grütze) Eckernförder Grütze	,2.1,4,9,"Apfel, rote Bete, Korinthen, Johannisbeeren, Hagebutten, Holunderbeeren, Brombeeren, Heildelbeeren, Himbeeren, Rosenblütenblätter, Aroma"
+90,Früchtetee,Eckernförder Grütze Rote Grütze,2.1,4,9,"Apfel, rote Bete, Korinthen, Johannisbeeren, Hagebutten, Holunderbeeren, Brombeeren, Heildelbeeren, Himbeeren, Rosenblütenblätter, Aroma
+
+"
 91,Früchtetee,Früchte Winter Chai,2.45,3.9,9,"Basis, Zimt, Kandis, Kardamom, Ingwer, schwarzer u. roter Pfeffer, Nelken, Aroma"
 92,Früchtetee,Gebrannte Mandel,2.1,4,9,"Apfel, Mandel, Rote Bete, Aroma "
 93,Früchtetee,Kaminfeuer,2.1,4,9,"Basis, Kakaoschalen, Zimtrinde, Pfingstrosenblüten,  Aroma"
@@ -120,20 +138,26 @@ Nelken, Aroma"
 105,Rooibush - Aromatisiert,Rooibush Erdbeer-Sahne,2.25,3.9,9,"Rooibush, Erdbeerstücke, Aroma"
 106,Rooibush - Aromatisiert,Rooibush Marzipan,2.25,3.9,9,"Rooibush, Mandeln, Katzenpfötchen, Aroma"
 107,Rooibush - Aromatisiert,Rooibush Ingwer – Lemon,2,3.9,9,"Rooibush, Lemongras, Zitonenschalen, Aroma"
-108,Rooibush - Aromatisiert,Rooibush Orange/Kaktusfeige,2,3.9,9,"Rooibush, Papaya, Fruchtig weicher Orangen Kaktusfeigen Geschmack, Süßholzwurzel, Aroma"
+108,Rooibush - Aromatisiert,Rooibush OrangeOderKaktusfeige,2,3.9,9,"Rooibush, Papaya, Fruchtig weicher Orangen Kaktusfeigen Geschmack, Süßholzwurzel, Aroma"
 109,Rooibush - Aromatisiert,Rooibush Weihnachtsduft,2.4,3.9,9,"Apfel u. Zimt Stücke, Koriander, Stern Anis, Nelken, Orangenspalten, rote Pfefferkörner"
 110,Rooibush - Aromatisiert,Rooibush Cool Mountain,2,3.9,9,"grüner Rooibush, Lemongras, Zitronenschalen, Kornblumenblüten, Ginkoblätter, Orangenschalen, Minze, Aroma "
 111,Rooibush - Aromatisiert,Rooibush Kaktusfeige,2,3.9,9,"Rooibush, Feigen-und Kiwistücke, Rosenknospen, Brombeerblätter, Aroma"
 ,,,,,,
-112,Kräutertee,Schietwetter Tee,2.5,4,9,"Brombeerblätter, Himbeerblätter, Sonnenblumenblüten, Fenchel, Anis, Hagebuttenschalen, Apfelwürfel, Melissenblätter, Spitzwegerichblätter, Holunderblüten, Pfefferminze, Aroma"
+112,Kräutertee,Schietwetter Tee,2.5,4,9,"Brombeerblätter, Himbeerblätter, Sonnenblumenblüten, Fenchel, 
+Anis, Hagebuttenschalen, Apfelwürfel, Melissenblätter, 
+Spitzwegerichblätter, Holunderblüten, Pfefferminze, Aroma
+"
 113,Kräutertee,Bio Kräutermischung Entspann Dich,2.5,4.5,10,"Eine biologische Kräutermischung aus Misterkraut, Brenneselblättern, Bohnenschalen, Lemongras, Birkenblättern, Weißdornbeeren, Johanniskraut, natürliches Aroma. Orangengeschmack"
 114,Kräutertee,Bio Kräutermischung Bleib Fit,2.5,4.5,10,"Eine biologische Kräutermischung aus Korinander, Brenneselblättern, Kardamom, Nelken, Sonnenblumenblüten, Bohnenschalen, Lemongras, Minze, Orangenschalen, Zimtrinde, Ingwer u.- Apfelstücke, natürliches Aroma. Minze- Lemon- Geschmack"
-115,Kräutertee,Weihnachtskräuter Tee,2.5,4,9,"Zutaten: Anis, Brombeerblätter, Thymian, Basilikum, Himbeerblätter, Hagebutte,Holunderblüte, Konigskerzenblüten, rote Johannisbeeren, Löwenzahnkraut,Pfefferminze, Fenchel, Birkenblätter, Zinnkraut, Sonnenblumenblüten, Melisse, Rosenblüten und Aroma"
+115,Kräutertee,Weihnachtskräuter Tee,2.5,4,9,"Zutaten: Anis, Brombeerblätter, Thymian, Basilikum, Himbeerblätter, Hagebutte,
+Holunderblüte, Konigskerzenblüten, rote Johannisbeeren, Löwenzahnkraut,
+Pfefferminze, Fenchel, Birkenblätter, Zinnkraut, Sonnenblumenblüten, Melisse, Rosenblüten und Aroma
+"
 116,Kräutertee,Fitness,2.2,4,9,"Apfelstücke, Rooibush, Zimtrinde, Ingwer, Bohnenhülsen, Lemongras, Mistelkraut, Johanniskraut, Johannisblätter, Kardamom, Ginsengwurzeln, Aroma"
 117,Kräutertee,Bio Basentee,2.5,4.5,10.5,"Fenchel, Anis, Kümmel, Brombeerblätter"
 118,Kräutertee,Entsäuerungstee,2.5,4.5,10,"Pfefferminz, Fenchel, Kümmel, Süßholz, Kamille"
 ,,,,,,
-119,Kräutertee - Monokräuter,Verbenent-Blätter-Tee (Frauen Tee),3,5,11,
+119,Kräutertee - Monokräuter,Verbenent-Blätter-Tee [Frauen Tee],3,5,11,
 120,Kräutertee - Monokräuter,Fenchel,2,3,6,
 121,Kräutertee - Monokräuter,Brennessel,2,3.5,8,
 122,Kräutertee - Monokräuter,Lemongras,2,3.5,6,
@@ -145,29 +169,50 @@ Nelken, Aroma"
 127,Ayurveda,Ermunternder Tee Kapha,3.25,5.5,12,"Einechter Muntermacher mit ganzer Kardamom, Kurkumawurzeln, Nelken, Muskatnuss, Koriander"
 128,"
 Ayurveda",Balance Tee Pitta,3.25,5.5,12,"ganzer Kardamom, Süßholzwurzeln, Koriander, Fenchel, Ingwerstücke, Rosenblüten	"
-129,Ayurveda,Anti- Strapazen- Tee Vata,3.25,5.5,12,"Zimtstücke, Süßholzwurzeln, Ingwerstücke, Fenchel, Orangenschalen, Kardamom"
+129,Ayurveda,Anti- Strapazen- Tee Vata,3.25,5.5,12,"Zimtstücke, Süßholzwurzeln, Ingwerstücke, Fenchel, Orangenschalen, 
+Kardamom
+"
 ,,,,,,
 130,Andere_Anbaugebiete,Brasil Mate grün,2,3,7,"vom Yerba – Strauch, Koffeinhaltig, helle Tasse "
-131,Andere_Anbaugebiete,Lapacho (Inka Tee) ,2.5,4,9,"Südamerikanischer Rindentee, auch Inka Tee genannt"
+131,Andere_Anbaugebiete,Lapacho [Inka Tee] ,2.5,4,9,"Südamerikanischer Rindentee, auch Inka Tee genannt"
 132,Andere_Anbaugebiete,Pu Erh Tee,2.75,5,10,Das Fett –Weg –Getränk aus_China
 133,Andere_Anbaugebiete,Super Body Fit,3,5.5,12.5,"Pu-Erh Tee, Matetee, Orangenschalen, Sonnenblumen u. Kornblumenblüten, Aroma"
 ,,,,,,
-134,Roonefeldt - Schwarztee,Darjeeling Margaret's Hope FTGFOP,,8.5,,Aus einem bevorzugten Teegarten im North Valley für körperreichen und aromatischen Second-Flush-Darjeeling auch für kalkhaltiges Wasser geeignet. 
-135,Roonefeldt - Schwarztee,Assam Bari (ex Mokalbarie) GFBOP,,10.6,,"Ein Klassiker unter den Broken-Tees: Viele goldene Tips, malzig-würziges und lebendiges Aroma zeichnen diesen Assam-Tee aus."
-136,Roonefeldt - Aromatisierter_Schwarztee,Special Earl Grey ,,4.8,,"Aromatisierter Schwarzer Tee mit Bergamottegeschmack Frisches Bergamotte-Aroma in verführerischer Verbindung mit wertvollen Tees aus Indien kräftig und intensiv im Geschmack. "
-137,Roonefeldt - Aromatisierter_Grüner_und_Weißertee,Morgentau,,5.6,,"Aromatisierter Grüner Tee mit Mango-Zitrusgeschmack Faszinierende Komposition mit großblättrigem Sencha und ungewöhnlich fein-fruchtigen Aromen und Blüten. Mit: Grüner Tee, Aroma, Sonnenblumen-, Rosen-, Kornblumenblüten"
-138,Roonefeldt - Aromatisierter_Grüner_und_Weißertee,Pfirsischblüte,,5,,"Aromatisierte Mischung aus Grünem Tee und Fruchtstückchen, Pfirsichgeschmack Feiner Sencha komponiert mit Früchten und Blüten, eingehüllt in ein zartes, duftiges Pfirsicharoma. Mit:  Grüner Tee (80%), Mangostückchen (Mango, Zucker), Pfirsichstückchen (Pfirsich, Reismehl), Aroma, Rosenblüten"
-139,Roonefeldt - Aromatisierter_Grüner_und_Weißertee,Japanisches Geheimnis,,5.5,,"Aromatisierte Grünteemischung mit Erdbeergeschmack .Die leicht süßliche Note des Genmaicha mit seinem gerösteten Naturreis wird ergänzt durch einen klaren Senchageschmack und gekrönt von fruchtigem Erdbeer-Flavour. Mit: Grüner Tee, gerösteter Reis, Aroma, Erdbeerstückchen"
+134,Roonefeldt - Schwarztee,Darjeeling Margarets Hope FTGFOP,,8.5,,Aus einem bevorzugten Teegarten im North Valley für körperreichen und aromatischen Second-Flush-Darjeeling auch für kalkhaltiges Wasser geeignet. 
+135,Roonefeldt - Schwarztee,Assam Bari [ex Mokalbarie] GFBOP,,10.6,,"Ein Klassiker unter den Broken-Tees: Viele goldene Tips, malzig-würziges und lebendiges Aroma zeichnen diesen Assam-Tee aus."
+136,Roonefeldt - Aromatisierter_Schwarztee,Special Earl Grey ,,4.8,,"Aromatisierter Schwarzer Tee mit Bergamottegeschmack 
+Frisches Bergamotte-Aroma in verführerischer Verbindung mit wertvollen Tees aus Indien kräftig und intensiv im Geschmack. 
+"
+137,Roonefeldt - Aromatisierter_Grüner_und_Weißertee,Morgentau,,5.6,,"Aromatisierter Grüner Tee mit Mango-Zitrusgeschmack 
+Faszinierende Komposition mit großblättrigem Sencha und ungewöhnlich fein-fruchtigen Aromen und Blüten. Mit: Grüner Tee, Aroma, Sonnenblumen-, Rosen-, Kornblumenblüten
+"
+138,Roonefeldt - Aromatisierter_Grüner_und_Weißertee,Pfirsischblüte,,5,,"Aromatisierte Mischung aus Grünem Tee und Fruchtstückchen, Pfirsichgeschmack 
+Feiner Sencha komponiert mit Früchten und Blüten, eingehüllt in ein zartes, duftiges Pfirsicharoma. Mit:  Grüner Tee (80%), Mangostückchen (Mango, Zucker), Pfirsichstückchen (Pfirsich, Reismehl), Aroma, Rosenblüten
+"
+139,Roonefeldt - Aromatisierter_Grüner_und_Weißertee,Japanisches Geheimnis,,5.5,,"Aromatisierte Grünteemischung mit Erdbeergeschmack .
+Die leicht süßliche Note des Genmaicha mit seinem gerösteten Naturreis wird ergänzt durch einen klaren Senchageschmack und gekrönt von fruchtigem Erdbeer-Flavour. 
+Mit: Grüner Tee, gerösteter Reis, Aroma, Erdbeerstückchen
+"
 140,Roonefeldt - Aromatisierter_Grüner_und_Weißertee,Weisser Mangotraum ,,6.7,,"Aromatisierter Weißer Tee mit Mango-Bergamottegeschmack .
 Reife Mango und ein Hauch von Zitrus legen sich nachhaltig über den fein-blumigen weißen Pai Mu Tan. Ein leichter und duftiger Tee, der wenig Tannin enthält. 
 Mit: Weißer Tee (Pai Mu Tan), Aroma
 "
-141,Roonefeldt - Rooibush,Rooibos Orange-Sahne ,,4.9,,"Aromatisierter Kräutertee mit Orange-Sahnegeschmack Das ist der nachhaltige Geschmack des Südens: Verführerische Orangenfrische und samtige Vanille-Sahne auf herzhaftem Rooibos. Mit: Rooibos, Aroma, Orangenschale, Vanillestückchen"
-142,Roonefeldt - White Peach,White Peach,,4.1,,"Aromatisierter Früchtetee mit Pfirsichgeschmack Ein heller, angenehm weicher Früchtetee, dessen pikant-süßliche Pfirsichnote ideal mit der zarten Spritzigkeit der Zitronenmyrte harmoniert. Mit: Apfel-, Ananasstückchen (Ananas, Zucker), Hagebuttenschale, Pfirsichstückchen (Pfirsich, Reismehl), Aroma, Sonnenblumen-, Rosenblüten, Zitronenmyrte, Kornblumenblüten"
+141,Roonefeldt - Rooibush,Rooibos Orange-Sahne ,,4.9,,"Aromatisierter Kräutertee mit Orange-Sahnegeschmack 
+Das ist der nachhaltige Geschmack des Südens: Verführerische Orangenfrische und samtige Vanille-Sahne auf herzhaftem Rooibos. Mit: Rooibos, Aroma, Orangenschale, Vanillestückchen
+"
+142,Roonefeldt - White Peach,White Peach,,4.1,,"Aromatisierter Früchtetee mit Pfirsichgeschmack 
+Ein heller, angenehm weicher Früchtetee, dessen pikant-süßliche Pfirsichnote ideal mit der zarten Spritzigkeit der Zitronenmyrte harmoniert. Mit: Apfel-, Ananasstückchen (Ananas, Zucker), Hagebuttenschale, Pfirsichstückchen (Pfirsich, Reismehl), Aroma, Sonnenblumen-, Rosenblüten, Zitronenmyrte, Kornblumenblüten
+"
 143,Roonefeldt - Kräutertee,Ingwer Zitronenmyrte ,,4.9,,"Harmonisches Zusammenspiel  der angenehm, frischen Schärfe des Ingwer und duftender Zitronenmyrte – das perfekte Genussduett. Zutaten: Ingwer** (92%), Zitronenmyrte** (8%) Bio-Zertifizierung"
 144,Roonefeldt - Kräutertee,Ingwer auf Kräutern ,,4.9,,"Ein richtiger Wellness-Tee mit echter Ingwerwurzel und Kräutern, die wohltun und einen frischen und frohen Tag erleben lassen. Zutaten: Ingwer, Anis, Fenchel, Süßholzwurzel, Zitronengras, schwarze Pfefferkörner, Zimtstückchen, Kamillenblüten, süße Brombeerblätter, Rosenblüten, Zitronenverbene"
-145,Roonefeldt - Kräutertee,Orange auf Kräutern,,4.9,,"Eine dezente Zitrusfrische liegt über diesem eleganten Kräutertee mit angenehm fruchtigem Aroma und der reifen Süße von Orangen.Zutaten: Apfelstückchen, Zitronenverbene, Zitronengras, Zitronenschale, Zitronenmyrte, Orangensaftstückchen, Orangenstücke, Ringelblumenblüten"
-146,Roonefeldt - Kräutertee,Ginger & Lemon ,,4.9,,"Charaktervoller Kräutertee mit der fruchtigen Schärfe des Ingwers, unterstützt durch die zitronige Frische von Zitronengras und aromareicher Minze. Zutaten: Ingwer, Zitronengras, Zitronenschale, Süßholzwurzel, Krauseminze, Kornblumenblüten, rosa Pfeffer"
-147,Roonefeldt - Kräutertee,Schlummertrunk,,4.9,,"Wohltuende Mischung beruhigender Kräuter, die auf natürliche Art den Tag ausklingen lässt.Zutaten: Kamillenblüten**, Pfefferminz-**, Melissen-**, Erdbeerblätter**, Fenchel**, Orangenblüten**, schwarze Johannisbeerblätter**, Lavendel-**, Rosenblüten**Bio-Zertifizierung"
+145,Roonefeldt - Kräutertee,Orange auf Kräutern,,4.9,,"Eine dezente Zitrusfrische liegt über diesem eleganten Kräutertee mit angenehm fruchtigem Aroma und der reifen Süße von Orangen.
+Zutaten: Apfelstückchen, Zitronenverbene, Zitronengras, Zitronenschale, Zitronenmyrte, Orangensaftstückchen, Orangenstücke, Ringelblumenblüten
+"
+146,Roonefeldt - Kräutertee,GingerUndLemon ,,4.9,,"Charaktervoller Kräutertee mit der fruchtigen Schärfe des Ingwers, unterstützt durch die zitronige Frische von Zitronengras und aromareicher Minze.
+ Zutaten: Ingwer, Zitronengras, Zitronenschale, Süßholzwurzel, Krauseminze, Kornblumenblüten, rosa Pfeffer
+"
+147,Roonefeldt - Kräutertee,Schlummertrunk,,4.9,,"Wohltuende Mischung beruhigender Kräuter, die auf natürliche Art den Tag ausklingen lässt.
+Zutaten: Kamillenblüten**, Pfefferminz-**, Melissen-**, Erdbeerblätter**, Fenchel**, Orangenblüten**, schwarze Johannisbeerblätter**, Lavendel-**, Rosenblüten**Bio-Zertifizierung
+"
 148,Roonefeldt - Kräutertee,Ingwer Zitronenmyrte ,,4.9,,Harmonisches Zusammenspiel der angenehm frischen Schärfe des Ingwer und duftender Zitronenmyrte - das pefekte Genussduett.
 149,Roonefeldt - Kräutertee,Lavendeltraum,,4.9,,"Angenehm würziger Thymian trifft auf sanften Lavendel. Genießen Sie Yin und Yang – eine harmonische Verbindung, die durch die leichte Spritzigkeit der Zitronenmyrte abgerundet wird."
