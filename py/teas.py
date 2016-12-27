@@ -234,12 +234,12 @@ def create_catagory_page(data, page_title):
                     fiftyg = 'NA'
                 
                 if onekg != "":
-                    onekg = '€'+fiftyg
+                    onekg = '€'+onekg
                 else:
                     onekg = 'NA'
                     
                 if twofiftyg != "":
-                    twofiftyg = '€'+fiftyg
+                    twofiftyg = '€'+twofiftyg
                 else:
                     twofiftyg = 'NA'
                     
