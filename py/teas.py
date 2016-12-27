@@ -202,7 +202,7 @@ def create_catagory_page(data, page_title):
 
     ########## teas ##########
     if type(v) == dict and 'teas' in data:
-        print "############### tea #####################"
+        #print "############### tea #####################"
         # grab the teas of the catagory 
         for kt, vt in data['teas'].iteritems():
             
@@ -275,7 +275,7 @@ def create_catagory_page(data, page_title):
             
             
             
-        print ('############## end tea ##################')
+        #print ('############## end tea ##################')
 
     #########################
         
