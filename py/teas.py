@@ -215,14 +215,18 @@ def create_catagory_page(data, page_title):
             call("sed -i 's,{{sub_title}},%s,g' content/%s" % (' ', tlink))
             call("sed -i 's,{{image_link}},%s,g' content/%s" % (vt['image_link'].replace(' ', '_'), tlink))
 
+            #print "-------", vt['description']
             #call("sed -i 's?{{description}}?%s?g' content/%s" % (vt['description'], tlink))
             
-            # with open(os.path.join('content/', str(tlink)), 'r') as tinfile:
-            #     tfiledata=tinfile.read()
+            with open(os.path.join('content/', str(tlink)), 'r') as tinfile:
+                tfiledata=tinfile.read()
         
-            # with open(os.path.join('content/', tlink), 'w') as toutfile:
-            #     tfiledata = tfiledata.replace('{{description}}', vt['description'])
-            #     toutfile.write(tfiledata)
+            with open(os.path.join('content/', tlink), 'w') as toutfile:
+                tfiledata = tfiledata.replace('{{description}}', vt['description'])
+                tfiledata = tfiledata.replace('{{50g}}', vt['price']['50g'].replace(' ', 'N/A').replace('.', ','))
+                tfiledata = tfiledata.replace('{{100g}}', vt['price']['100g'].replace(' ', 'N/A').replace('.', ','))
+                tfiledata = tfiledata.replace('{{250g}}', vt['price']['250g'].replace(' ', 'N/A').replace('.', ','))
+                toutfile.write(tfiledata)
             
             
             
