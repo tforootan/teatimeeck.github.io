@@ -11,7 +11,7 @@ entry_tempalte = '''
 <div class="col-sm-6 col-md-4 el">
     <a style="display:block" href="{{prev}}{{link}}">
     <div class="portfolio-el view">
-    <img src="{{prev}}{{image_link}}" alt="project">
+    <img src="../{{prev}}{{image_link}}" alt="project">
         <span class="mask">
             <div class="portfolio-middle">
                 <h3 class="project-title br-bottom">{{title}}</h3>
@@ -213,7 +213,7 @@ def create_catagory_page(data, page_title):
             call("sed -i 's,{{title}},%s,g' content/%s" % (kt, tlink))
             call("sed -i 's,{{name}},%s,g' content/%s" % (kt, tlink))
             call("sed -i 's,{{sub_title}},%s,g' content/%s" % (' ', tlink))
-            call("sed -i 's,{{image_link}},%s,g' content/%s" % (vt['image_link'], tlink))
+            call("sed -i 's,{{image_link}},%s,g' content/%s" % (vt['image_link'].replace(' ', '_'), tlink))
 
             #call("sed -i 's?{{description}}?%s?g' content/%s" % (vt['description'], tlink))
             
