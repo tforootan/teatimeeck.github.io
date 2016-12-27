@@ -6,6 +6,7 @@ import json
 import csv
 import subprocess
 
+# MADE WITH LOVE <3
 
 entry_tempalte = '''
 <div class="col-sm-6 col-md-4 el">
@@ -25,6 +26,9 @@ entry_tempalte = '''
 
 
 def call(command, show=False):
+    '''
+    calls shell with given command
+    '''
     if show:
         print ">> "+command
     result = subprocess.Popen(command, shell=True, stdout=subprocess.PIPE).stdout.read()
@@ -37,6 +41,9 @@ def call(command, show=False):
 
 
 def input_csv_to_json(csv_path):
+    '''
+    converts csv to json (actually a list, not json - fix func name)
+    '''
     data = []
     with open(csv_path, 'rU') as csvfile:
         reader = csv.reader(csvfile)
@@ -47,35 +54,48 @@ def input_csv_to_json(csv_path):
 
 
 def parse_teas(data):
+    '''
+    Parsed data from list to json
+    '''
     json_data = {}
     
+    # check if content dir in py folder exists
     if os.path.exists('content'):
         print 'delete content folder or file'
         return
     
+    # make content and teas dirs
     os.mkdir('content')
     os.mkdir('content/teas/')
     
+    
+    # go through all teas
     for i, row in enumerate(data):
-        if row[0] == "" or i == 0:
+        if row[0] == "" or i == 0: # it is an empty row, skip it
             continue
         
+        
+        # replace all spaces with no spaces and split by '-' char
         catagories = row[1].strip().replace(' ', '').split('-')
+        # keep track of current dictionary (key : value pairs)
         prev_dict = json_data
+        # keep track of path
         path = 'teas/'
+        # keep track of number of directroies 
         count = 2
         
+        # create link for top level and how to get back to home (e.g. where ./index.html is)
         prev_dict['link'] = path + '%s.html' % 'teas'
         prev_dict['home'] = '../' 
-        for j, c in enumerate(catagories):
+        for j, c in enumerate(catagories): # go through catagories 
             if c == '':
                 continue
             
-            if c in prev_dict:
+            if c in prev_dict:  # if it already exists, switch to that and increment path and count
                 prev_dict = prev_dict[c]
                 path += '%s/' % c
                 count += 1
-            else:
+            else: # otherwise create a new dictionary, make directory and add appropriate fields
                 prev_dict[c] = {}
                 path += '%s/' % c
 
@@ -89,12 +109,13 @@ def parse_teas(data):
 
                 count += 1
                 
-            if len(catagories) -1 == j:
+            if len(catagories) -1 == j: # if we hit the last catagory (then tea is in this)
                 tea = row[2]
-                if 'teas' in prev_dict:
+                if 'teas' in prev_dict: # if the teas folder exists, don't create it
                     pass
-                else:
+                else: # create teas folder
                     prev_dict['teas'] = {}
+                # add tea and appropriate fields from json file
                 prev_dict['teas'][tea] = {}
                 prev_dict['teas'][tea]['price'] = {}
                 prev_dict['teas'][tea]['price']['50g'] = row[3]
@@ -111,15 +132,21 @@ def parse_teas(data):
                 
 
 def generate_pages(json_data, page_title):
-    
+    '''
+    recusively goes through json file and creates catagory pages and tea pages
+    '''
     create_catagory_page(json_data, page_title)
      
     for k,v in json_data.iteritems():
-        if type(v) == dict and k != 'teas':
-            generate_pages(v, page_title + ' / ' + k)
+        if type(v) == dict and k != 'teas': #check if its a dictionary, don't do it for teas here
+            generate_pages(v, page_title + ' / ' + k) # append the page title TODO: make it a link so they can go back.
 
 def create_catagory_page(data, page_title):
+    '''
+    Creates pages for teas and catagories 
+    '''
     
+    # grab link, home, and image link for current catagory 
     if 'link' in data:
         link = data['link']
     else:
@@ -134,31 +161,33 @@ def create_catagory_page(data, page_title):
         image_link = data['image_link']
     else:
         image_link = None
-        
+    
+    # copy the template into a new file
     call('cp catagory_template.html content/%s' % link)
     
+    # replace prev with home, which should allow it to reference correct files (CSS, JS, other links)
     call("sed -i 's,{{prev}},%s,g' content/%s" % (home, link))
     
-    entries = []
+    entries = [] # holds entries for catagories 
     # print 'link: =', link
     # print 'home: =', home
     # print 'image_link = ', image_link 
 
-    for k,v in data.iteritems():
-        if k == 'link' or k == 'home' or k == 'image_link' or k=='teas':
+    for k,v in data.iteritems(): # go through each catagory 
+        if k == 'link' or k == 'home' or k == 'image_link' or k=='teas': # skip if these
             continue
-        entry = entry_tempalte[:]
+        entry = entry_tempalte[:] # copy entry template from above
         
         
-        entry = entry.replace('{{prev}}', home)
-        v['image_link'] = '../img/black.jpg' # temp
+        entry = entry.replace('{{prev}}', home) # fix relative link
+        v['image_link'] = '../img/black.jpg' # temp TODO: change it once better images found
         entry = entry.replace('{{image_link}}', v['image_link'])
         entry = entry.replace('{{title}}', k.replace('_', ' '))
         
         #print "v link", v['link']
         entry = entry.replace('{{link}}', v['link'])
         
-        
+        # grab sub catagories of the catagory
         if type(v) == dict:
             keys = ''
             for k2, v2 in v.iteritems():
@@ -167,19 +196,14 @@ def create_catagory_page(data, page_title):
                 keys += (str(k2).replace('_', ' ')+', ')
             entry = entry.replace('{{sub_title}}', keys[:-2])
         entries.append(entry)
-        
-        
-        
-        
-        
-        
+    
         
     teas = []
 
     ########## teas ##########
     if type(v) == dict and 'teas' in data:
         print "############### tea #####################"
-        
+        # grab the teas of the catagory 
         for kt, vt in data['teas'].iteritems():
             
             thome = vt['home']
@@ -243,7 +267,7 @@ def create_catagory_page(data, page_title):
                 else:
                     twofiftyg = 'NA'
                     
-                    
+                
                 tfiledata = tfiledata.replace('{{50g}}', fiftyg)
                 tfiledata = tfiledata.replace('{{100g}}', onekg)
                 tfiledata = tfiledata.replace('{{250g}}', twofiftyg)
@@ -290,4 +314,3 @@ if __name__ == '__main__':
     generate_pages(json_data, 'Alle Tees')
     print 'done'
     
-
